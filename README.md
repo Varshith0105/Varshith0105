@@ -25,7 +25,6 @@ I enjoy working across the full AI lifecycle — from data preprocessing and mod
 </p>
 
 ---
-
 ## 🌟 Let's Connect!
 
 <p>

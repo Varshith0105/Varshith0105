@@ -34,17 +34,18 @@ I’m always open to collaboration on interesting projects, learning opportuniti
 Feel free to reach out!
 </p>
 
-<p>
+<p align="left">
   <a href="mailto:varshithjulakanti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
   <a href="https://github.com/Varshith0105">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
   </a>
-  <a href="https://instagram.com/your_instagram_id">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=flat-square&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/_.varshith_.7">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
 </p>
+
 
 ---
 

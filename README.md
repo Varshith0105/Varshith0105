@@ -30,10 +30,11 @@ I enjoy working across the full AI lifecycle — from data preprocessing and mod
 
 <p align="center">
   <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+       src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&theme=dark&hide_border=true" />
   <img width="48%" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Varshith0105&theme=dark&hide_border=true" />
+       src="https://streak-stats.demolab.com?user=Varshith0105&theme=dark&hide_border=true" />
 </p>
+
 
 
 ---

@@ -1,90 +1,56 @@
-<div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="140" style="border-radius:50%" />
-
-<h1>Varshith Julakanti</h1>
-<h3>Aspiring AI Engineer • Machine Learning • Deep Learning</h3>
-
-📍 Amaravati, Andhra Pradesh, India  
-🎓 B.Tech Computer Science @ VIT-AP (2023–2027)
+<h1>Hi there, I'm Varshith Julakanti! 👋</h1>
 
 <p>
-  <a href="mailto:varshithjulakanti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-red?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Varshith0105">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/your_instagram_id">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
+📍 Based in Amaravati, Andhra Pradesh, India &nbsp;|&nbsp;
+💡 Passionate about building intelligent AI solutions
 </p>
 
-</div>
+<p>
+<strong>
+Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision | MLOps
+</strong>
+</p>
 
----
-
-## 👋 Overview
-
-Welcome to my GitHub profile!  
-I’m a **Computer Science student and aspiring AI Engineer** passionate about building  
-**intelligent, scalable, and data-driven AI systems** using modern machine learning and deep learning technologies.
-
-I enjoy working across the full AI lifecycle — from data preprocessing and model development to deployment and optimization — with a focus on **responsible and explainable AI**.
+<p>
+Welcome to my GitHub profile! I’m a Computer Science student and aspiring AI Engineer with a strong interest in creating intelligent, scalable, and user-focused AI systems.
+I enjoy working across the full AI lifecycle — from data preprocessing and model development to deployment and optimization — and I’m always eager to learn and explore new tools and technologies.
+</p>
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" /><br/>
-
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,opencv" /><br/>
-
-  <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,docker" /><br/>
-
-  <!-- Row 4 -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,mysql,postgres,mongodb" /><br/>
-
-  <!-- Row 5 -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,opencv" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,mysql,postgres,mongodb" />
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Activity Dashboard
+## 🌟 Let's Connect!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varshith0105&theme=github-dark&hide_border=true" width="48%"/>
+<p>
+I’m always open to collaboration on interesting projects, learning opportunities, and discussions around AI, machine learning, and emerging technologies.
+Feel free to reach out!
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshith0105&theme=github-dark&hide_border=true"/>
+<p>
+  <a href="mailto:varshithjulakanti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Varshith0105">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/your_instagram_id">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🎯 Fun Fact
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=darkhub&no-frame=true&row=1"/>
-</p>
-
----
-
-## 🌟 Fun Fact
-
-🤖 I enjoy turning complex AI models into **clean, real-world, user-friendly applications**.
-
----
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!  
-Let’s build something impactful 🚀
-
-</div>
+☕ I enjoy turning complex AI models into clean, real-world, user-friendly applications.

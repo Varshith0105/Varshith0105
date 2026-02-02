@@ -11,6 +11,15 @@ Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision | M
 </strong>
 </p>
 
+- 👋 Hi, I’m @Varshith0105
+- 👀 I’m interested in Machine learning using Python
+- 🌱 I’m currently learning Machine learning
+- 💞️ I’m looking to collaborate on AI and ML projects
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My code runs perfectly… after 100 attempts.😅
+- 👀 Give a star and follow.........
+
+
 <p>
 Welcome to my GitHub profile! I’m a Computer Science student and aspiring AI Engineer with a strong interest in creating intelligent, scalable, and user-focused AI systems.
 I enjoy working across the full AI lifecycle — from data preprocessing and model development to deployment and optimization — and I’m always eager to learn and explore new tools and technologies.

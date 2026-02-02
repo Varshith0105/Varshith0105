@@ -24,6 +24,17 @@ I enjoy working across the full AI lifecycle — from data preprocessing and mod
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch,keras,opencv,flask,fastapi,streamlit,docker,aws,gcp,mysql,postgres,mongodb,git,github,linux,vscode" />
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img width="48%" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Varshith0105&theme=dark&hide_border=true" />
+</p>
+
 
 ---
 
@@ -45,7 +56,6 @@ Feel free to reach out!
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
 </p>
-
 
 ---
 

@@ -21,12 +21,9 @@ I enjoy working across the full AI lifecycle — from data preprocessing and mod
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,opencv" />
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,docker" />
-  <img src="https://skillicons.dev/icons?i=aws,gcp,mysql,postgres,mongodb" />
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch,keras,opencv,flask,fastapi,streamlit,docker,aws,gcp,mysql,postgres,mongodb,git,github,linux,vscode" />
 </p>
+
 
 ---
 

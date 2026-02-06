@@ -18,6 +18,12 @@ I enjoy working across the full AI lifecycle — from data preprocessing and mod
 
 ---
 
+## 🚀 Portfolio 
+ 
+👉 https://varshith-portfolio-omega.vercel.app/
+
+---
+
 ## 🛠️ Technologies & Tools
 
 <p align="left">

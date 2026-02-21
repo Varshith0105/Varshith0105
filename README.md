@@ -1,8 +1,13 @@
 <h1>Hi there, I'm Varshith Julakanti! 👋</h1>
 
 <p>
-📍 Based in Amaravati, Andhra Pradesh, India &nbsp;|&nbsp;
-💡 Passionate about building intelligent AI solutions
+  📍 Based in Amaravati, Andhra Pradesh, India &nbsp;|&nbsp;
+  💡 Passionate about building intelligent AI solutions
+</p>
+
+<!-- Profile Views Counter -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Varshith0105&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p>

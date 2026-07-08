@@ -102,26 +102,35 @@ computer vision and full-stack applications.
 ![Next.js](https://img.shields.io/badge/-Next.js-0a0f1e?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 
 </td>
-<td valign="top" width="16%">
+<td valign="top" width="14%">
 
-**Data & DB**
+**Databases**
 
-![Pandas](https://img.shields.io/badge/-Pandas-0a0f1e?style=flat-square&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/-NumPy-0a0f1e?style=flat-square&logo=numpy&logoColor=013243)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0a0f1e?style=flat-square&logo=mongodb&logoColor=47a248)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-0a0f1e?style=flat-square&logo=postgresql&logoColor=4169e1)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-0a0f1e?style=flat-square&logo=pinecone&logoColor=2ec5ff)
+![MySQL](https://img.shields.io/badge/-MySQL-0a0f1e?style=flat-square&logo=mysql&logoColor=4479a1)
 
 </td>
-<td valign="top" width="17%">
+<td valign="top" width="14%">
 
-**DevOps & Tools**
+**DevOps / Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-0a0f1e?style=flat-square&logo=docker&logoColor=2496ed)
 ![Git](https://img.shields.io/badge/-Git_&_GitHub-0a0f1e?style=flat-square&logo=github&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VS_Code-0a0f1e?style=flat-square&logo=visualstudiocode&logoColor=2ec5ff)
-![CI/CD](https://img.shields.io/badge/-CI/CD-0a0f1e?style=flat-square&logo=githubactions&logoColor=2088ff)
 ![Linux](https://img.shields.io/badge/-Linux-0a0f1e?style=flat-square&logo=linux&logoColor=fcc624)
+![CI/CD](https://img.shields.io/badge/-CI/CD-0a0f1e?style=flat-square&logo=githubactions&logoColor=2088ff)
+
+</td>
+<td valign="top" width="14%">
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/-AWS-0a0f1e?style=flat-square&logo=amazonaws&logoColor=ff9900)
+![GCP](https://img.shields.io/badge/-Google_Cloud-0a0f1e?style=flat-square&logo=googlecloud&logoColor=4285f4)
+![Render](https://img.shields.io/badge/-Render-0a0f1e?style=flat-square&logo=render&logoColor=46e3b7)
+![Vercel](https://img.shields.io/badge/-Vercel-0a0f1e?style=flat-square&logo=vercel&logoColor=ffffff)
 
 </td>
 </tr>
@@ -148,7 +157,7 @@ computer vision and full-stack applications.
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Varshith0105"><img src="./assets/svg/project-chat.svg" width="100%" alt="Personal AI Chat Application"/></a>
+<a href="https://your-personal-ai-chat.vercel.app"><img src="./assets/svg/project-chat.svg" width="100%" alt="Personal AI Chat Application"/></a>
 
 ### 💬 Personal AI Chat Application
 AI-powered chat application with real-time conversations, context memory and streaming responses.
@@ -158,12 +167,11 @@ AI-powered chat application with real-time conversations, context memory and str
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0a0f1e?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
 ![OpenAI](https://img.shields.io/badge/-OpenAI_API-0a0f1e?style=flat-square&logo=openai&logoColor=2ec5ff)
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-2ec5ff?style=for-the-badge&labelColor=0a0f1e)](https://varshith-portfolio-omega.vercel.app)
-[![Code](https://img.shields.io/badge/📁_Code-a78bfa?style=for-the-badge&labelColor=0a0f1e)](https://github.com/Varshith0105)
+<a href="https://your-personal-ai-chat.vercel.app"><img src="./assets/svg/cta-live.svg" alt="Live Demo" height="36"/></a> <a href="https://github.com/Varshith0105/your-personal-ai-chat"><img src="./assets/svg/cta-code.svg" alt="Source Code" height="36"/></a>
 
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Varshith0105"><img src="./assets/svg/project-drug.svg" width="100%" alt="AI-Powered Drug Discovery Platform"/></a>
+<a href="https://drug-discovery-ai-cnn-based.vercel.app"><img src="./assets/svg/project-drug.svg" width="100%" alt="AI-Powered Drug Discovery Platform"/></a>
 
 ### 🧬 AI-Powered Drug Discovery (DTI)
 End-to-end drug target interaction prediction platform using CNN models and explainable AI.
@@ -173,27 +181,54 @@ End-to-end drug target interaction prediction platform using CNN models and expl
 ![PyTorch](https://img.shields.io/badge/-PyTorch-0a0f1e?style=flat-square&logo=pytorch&logoColor=ee4c2c)
 ![Plotly](https://img.shields.io/badge/-Plotly-0a0f1e?style=flat-square&logo=plotly&logoColor=3f4f75)
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-2ec5ff?style=for-the-badge&labelColor=0a0f1e)](https://github.com/Varshith0105)
-[![Code](https://img.shields.io/badge/📁_Code-a78bfa?style=for-the-badge&labelColor=0a0f1e)](https://github.com/Varshith0105)
+<a href="https://drug-discovery-ai-cnn-based.vercel.app"><img src="./assets/svg/cta-live.svg" alt="Live Demo" height="36"/></a> <a href="https://github.com/Varshith0105/Drug_Discovery_AI_CNN-Based"><img src="./assets/svg/cta-code.svg" alt="Source Code" height="36"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Varshith0105"><img src="./assets/svg/project-stock.svg" width="100%" alt="StockAI Stock Price Prediction"/></a>
+<a href="https://stockpredectionai.vercel.app"><img src="./assets/svg/project-stock.svg" width="100%" alt="StockAI Stock Price Prediction"/></a>
 
 ### 📈 StockAI — Stock Price Prediction
-AI-powered stock market forecasting system with ML models, visualizations and forecasting analytics.
+LSTM-based stock market forecasting system with ML models, visualizations and analytics dashboard.
 
 ![Python](https://img.shields.io/badge/-Python-0a0f1e?style=flat-square&logo=python&logoColor=2ec5ff)
 ![scikit-learn](https://img.shields.io/badge/-Scikit_learn-0a0f1e?style=flat-square&logo=scikitlearn&logoColor=f7931e)
 ![Pandas](https://img.shields.io/badge/-Pandas-0a0f1e?style=flat-square&logo=pandas&logoColor=150458)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-0a0f1e?style=flat-square&logo=plotly&logoColor=11557c)
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-2ec5ff?style=for-the-badge&labelColor=0a0f1e)](https://github.com/Varshith0105)
-[![Code](https://img.shields.io/badge/📁_Code-a78bfa?style=for-the-badge&labelColor=0a0f1e)](https://github.com/Varshith0105)
+<a href="https://stockpredectionai.vercel.app"><img src="./assets/svg/cta-live.svg" alt="Live Demo" height="36"/></a> <a href="https://github.com/Varshith0105/stock-predictor-pro"><img src="./assets/svg/cta-code.svg" alt="Source Code" height="36"/></a>
 
 </td>
+<td width="50%" valign="top">
+<a href="https://github.com/Varshith0105"><img src="./assets/svg/project-semantic.svg" width="100%" alt="Semantic Search System"/></a>
+
+### 🔎 Semantic Search System
+RAG-based semantic search engine using embeddings, vector databases and knowledge graphs.
+
+![LangChain](https://img.shields.io/badge/-LangChain-0a0f1e?style=flat-square&logo=chainlink&logoColor=c084fc)
+![Pinecone](https://img.shields.io/badge/-Pinecone-0a0f1e?style=flat-square&logo=pinecone&logoColor=2ec5ff)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0a0f1e?style=flat-square&logo=fastapi&logoColor=05998b)
+
+<a href="https://github.com/Varshith0105"><img src="./assets/svg/cta-live.svg" alt="Live Demo" height="36"/></a> <a href="https://github.com/Varshith0105"><img src="./assets/svg/cta-code.svg" alt="Source Code" height="36"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Varshith0105"><img src="./assets/svg/project-skin.svg" width="100%" alt="Skin Disease Prediction"/></a>
+
+### 🩺 Skin Disease Prediction
+CNN-based model for skin disease classification with high accuracy across 7 disease classes.
+
+![Python](https://img.shields.io/badge/-Python-0a0f1e?style=flat-square&logo=python&logoColor=2ec5ff)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-0a0f1e?style=flat-square&logo=tensorflow&logoColor=ff6f00)
+![OpenCV](https://img.shields.io/badge/-OpenCV-0a0f1e?style=flat-square&logo=opencv&logoColor=5c3ee8)
+
+<a href="https://github.com/Varshith0105"><img src="./assets/svg/cta-live.svg" alt="Live Demo" height="36"/></a> <a href="https://github.com/Varshith0105"><img src="./assets/svg/cta-code.svg" alt="Source Code" height="36"/></a>
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://varshith-portfolio-omega.vercel.app"><img src="./assets/svg/project-portfolio.svg" width="100%" alt="Personal Portfolio Website"/></a>
 
@@ -203,10 +238,8 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 ![React](https://img.shields.io/badge/-React-0a0f1e?style=flat-square&logo=react&logoColor=61dafb)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0a0f1e?style=flat-square&logo=typescript&logoColor=3178c6)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0a0f1e?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
-![Vercel](https://img.shields.io/badge/-Vercel-0a0f1e?style=flat-square&logo=vercel&logoColor=ffffff)
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-2ec5ff?style=for-the-badge&labelColor=0a0f1e)](https://varshith-portfolio-omega.vercel.app)
-[![Code](https://img.shields.io/badge/📁_Code-a78bfa?style=for-the-badge&labelColor=0a0f1e)](https://github.com/Varshith0105)
+<a href="https://varshith-portfolio-omega.vercel.app"><img src="./assets/svg/cta-live.svg" alt="Live Demo" height="36"/></a> <a href="https://github.com/Varshith0105/Varshith-Portfolio"><img src="./assets/svg/cta-code.svg" alt="Source Code" height="36"/></a>
 
 </td>
 </tr>

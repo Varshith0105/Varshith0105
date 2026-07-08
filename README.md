@@ -288,7 +288,9 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 <img src="./assets/svg/section-contrib.svg" width="100%" alt="Contribution Activity"/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshith0105&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity&bg_color=0a0f1e&color=2ec5ff&line=a78bfa&point=c084fc" alt="Varshith0105 · Contribution Activity Graph" width="98%"/>
+  <a href="https://github.com/Varshith0105" title="View live contribution activity on GitHub">
+    <img src="./assets/svg/activity-card.svg" alt="Varshith0105 · Contribution Activity — click to view live" width="98%"/>
+  </a>
 </p>
 
 

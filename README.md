@@ -267,15 +267,15 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varshith0105&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500" alt="Varshith0105 · GitHub Stats" height="185"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varshith0105&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500&bg_color=0a0f1e&title_color=2ec5ff&icon_color=a78bfa" alt="Varshith0105 · GitHub Stats" height="185"/>
 </td>
 <td width="50%" align="center">
-  <img src="https://streak-stats.demolab.com?user=Varshith0105&theme=tokyonight&hide_border=true&card_width=500" alt="Varshith0105 · GitHub Streak" height="185"/>
+  <img src="https://streak-stats.demolab.com?user=Varshith0105&theme=tokyonight&hide_border=true&card_width=500&background=0a0f1e&stroke=0a0f1e&ring=2ec5ff&fire=a78bfa&currStreakLabel=2ec5ff" alt="Varshith0105 · GitHub Streak" height="185"/>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varshith0105&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" height="185"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varshith0105&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500&bg_color=0a0f1e&title_color=2ec5ff" alt="Top Languages" height="185"/>
 </td>
 <td width="50%" align="center">
   <img src="https://profile-trophy.vercel.app/?username=Varshith0105&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" alt="GitHub Trophies" height="185"/>
@@ -286,7 +286,7 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 <img src="./assets/svg/section-contrib.svg" width="100%" alt="Contribution Activity"/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshith0105&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity" alt="Varshith0105 · Contribution Activity Graph" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshith0105&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity&bg_color=0a0f1e&color=2ec5ff&line=a78bfa&point=c084fc" alt="Varshith0105 · Contribution Activity Graph" width="98%"/>
 </p>
 
 
@@ -305,7 +305,7 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 <td width="60%" valign="top" align="center">
 
 <a href="https://github.com/Varshith0105">
-  <img src="https://github.com/Varshith0105.png" width="86" height="86" align="left" style="border-radius:50%" alt="Varshith0105 avatar"/>
+  <img src="./assets/varshith-avatar.png?v=2" width="96" height="96" align="left" alt="Varshith Julakanti avatar"/>
 </a>
 
 **[Varshith0105](https://github.com/Varshith0105)** &nbsp;·&nbsp; AI / ML Engineer

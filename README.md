@@ -227,8 +227,6 @@ CNN-based model for skin disease classification with high accuracy across 7 dise
 <a href="https://github.com/Varshith0105"><img src="./assets/svg/cta-live.svg" alt="Live Demo" height="36"/></a> <a href="https://github.com/Varshith0105"><img src="./assets/svg/cta-code.svg" alt="Source Code" height="36"/></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://varshith-portfolio-omega.vercel.app"><img src="./assets/svg/project-portfolio.svg" width="100%" alt="Personal Portfolio Website"/></a>
 
@@ -269,28 +267,32 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" alt="Varshith0105 · GitHub Stats" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&card_width=500" alt="Varshith0105 · GitHub Stats" height="185"/>
 </td>
 <td width="50%" align="center">
-  <img src="https://streak-stats.demolab.com?user=Varshith0105&theme=tokyonight&hide_border=true" alt="Varshith0105 · GitHub Streak" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=Varshith0105&theme=tokyonight&hide_border=true&card_width=500" alt="Varshith0105 · GitHub Streak" height="185"/>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith0105&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith0105&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&card_width=500" alt="Top Languages" height="185"/>
 </td>
 <td width="50%" align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" alt="GitHub Trophies" height="185"/>
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshith0105&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity" alt="Activity Graph" width="98%"/>
+</p>
 
 ---
 
 <img src="./assets/svg/section-contrib.svg" width="100%" alt="Contribution Activity"/>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2ec5ff/Varshith0105" alt="Varshith0105 · Contribution Graph" width="100%"/>
+  <img src="https://ghchart.rshah.org/39d353/Varshith0105" alt="Varshith0105 · Contribution Graph" width="100%" style="background:#000"/>
 </p>
 
 
@@ -304,7 +306,40 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
   </picture>
 </p>
 
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
 <p align="right"><sub><a href="https://github.com/Varshith0105">github.com/Varshith0105</a></sub></p>
+
+</td>
+<td width="40%" valign="top">
+
+> **⟡ CURRENT FOCUS**
+> ```
+> > Building AI products
+> > Learning everyday
+> > Shipping impact
+> ```
+
+</td>
+</tr>
+</table>
+
+### 🌱 Open Source
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/Varshith0105?tab=repositories"><img src="https://img.shields.io/badge/awesome--ai--tools-0a0f1e?style=for-the-badge&logo=github&logoColor=2ec5ff&labelColor=0a0f1e"/></a><br/>
+  <sub>Curated list of AI tools · Python</sub>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/Varshith0105?tab=repositories"><img src="https://img.shields.io/badge/ml--utils-0a0f1e?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0a0f1e"/></a><br/>
+  <sub>Machine Learning utilities · Python</sub>
+</td>
+</tr>
+</table>
 
 ---
 

@@ -178,32 +178,6 @@
     <text x="18" y="0" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="13" fill="#94a3b8">Hyderabad, Telangana, India</text>
   </g>
 
-  <!-- avatar: pulsing glow, rotating AI ring -->
-  <circle cx="960" cy="220" r="180" fill="url(#ringGlow)">
-    <animate attributeName="r" values="170;185;170" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="960" cy="220" r="155" fill="none" stroke="#2ec5ff" stroke-width="2" opacity="0.9"/>
-  <circle cx="960" cy="220" r="162" fill="none" stroke="#c084fc" stroke-width="1" opacity="0.6"/>
+  <!-- avatar circle removed -->
 
-  <!-- rotating outer ring with dashed segments -->
-  <g transform="translate(960,220)">
-    <circle r="176" fill="none" stroke="#2ec5ff" stroke-width="1.2" stroke-dasharray="8 6" opacity="0.75">
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
-    </circle>
-    <circle r="188" fill="none" stroke="#c084fc" stroke-width="0.8" stroke-dasharray="2 8" opacity="0.7">
-      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="28s" repeatCount="indefinite"/>
-    </circle>
-    <!-- orbital node -->
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
-      <circle cx="176" cy="0" r="5" fill="#2ec5ff"/>
-      <circle cx="176" cy="0" r="10" fill="#2ec5ff" opacity="0.3"><animate attributeName="r" values="6;14;6" dur="2s" repeatCount="indefinite"/></circle>
-    </g>
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="180" to="540" dur="14s" repeatCount="indefinite"/>
-      <circle cx="188" cy="0" r="4" fill="#c084fc"/>
-    </g>
-  </g>
-
-  <image href="https://github.com/Varshith0105.png" x="810" y="70" width="300" height="300" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
 </svg>

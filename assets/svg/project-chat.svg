@@ -1,21 +1,90 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" width="600" height="320" role="img" aria-label="Personal AI Chat — streaming responses">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0a0f1e"/><stop offset="100%" stop-color="#131a33"/>
+      <stop offset="0%" stop-color="#05070d"/>
+      <stop offset="100%" stop-color="#131a33"/>
     </linearGradient>
-    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#2ec5ff"/><stop offset="100%" stop-color="#c084fc"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2ec5ff"/>
+      <stop offset="100%" stop-color="#c084fc"/>
     </linearGradient>
+    <linearGradient id="userBubble" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d2b52"/>
+      <stop offset="100%" stop-color="#0f1a3a"/>
+    </linearGradient>
+    <linearGradient id="aiBubble" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2ec5ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#2ec5ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1a2740" stroke-width="0.4" opacity="0.4"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4"/>
+      <feOffset dx="0" dy="4"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.5"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
-  <rect width="600" height="300" fill="url(#bg)" rx="12"/>
-  <rect x="1" y="1" width="598" height="298" rx="12" fill="none" stroke="url(#ac)" stroke-opacity="0.35"/>
-  <!-- chat bubbles -->
-  <rect x="40" y="60" width="260" height="46" rx="12" fill="#1e293b"/>
-  <text x="56" y="88" font-family="ui-monospace, monospace" font-size="13" fill="#cbd5e1">How do I build a RAG pipeline?</text>
-  <rect x="300" y="130" width="260" height="70" rx="12" fill="#1d2b52" stroke="#2ec5ff" stroke-opacity="0.5"/>
-  <text x="316" y="156" font-family="ui-monospace, monospace" font-size="13" fill="#7dd3fc">Use embeddings + a vector DB,</text>
-  <text x="316" y="176" font-family="ui-monospace, monospace" font-size="13" fill="#7dd3fc">retrieve top-k, then prompt an LLM.</text>
-  <rect x="40" y="220" width="200" height="40" rx="12" fill="#1e293b"/>
-  <text x="56" y="245" font-family="ui-monospace, monospace" font-size="13" fill="#cbd5e1">Streaming responses ✓</text>
-  <text x="24" y="30" font-family="Segoe UI, sans-serif" font-weight="700" font-size="14" fill="url(#ac)">AI CHAT · streaming</text>
+
+  <rect width="600" height="320" fill="url(#bg)" rx="14"/>
+  <rect width="600" height="320" fill="url(#grid)" rx="14"/>
+  <circle cx="120" cy="60" r="180" fill="url(#glow)">
+    <animate attributeName="cx" values="120;480;120" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="60;260;60" dur="14s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="0.5" y="0.5" width="599" height="319" rx="14" fill="none" stroke="url(#accent)" stroke-opacity="0.4"/>
+
+  <!-- header -->
+  <g transform="translate(24,28)">
+    <circle r="5" fill="#2ec5ff"><animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/></circle>
+    <text x="14" y="4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="700" fill="url(#accent)" letter-spacing="1.5">AI CHAT · streaming</text>
+  </g>
+
+  <!-- isometric conversation stack -->
+  <g transform="translate(300,190) skewY(-8)" filter="url(#shadow)">
+    <!-- user bubble -->
+    <g transform="translate(-260,-90)">
+      <rect width="260" height="46" rx="14" fill="url(#userBubble)" stroke="#2ec5ff" stroke-opacity="0.4"/>
+      <text x="18" y="29" font-family="ui-monospace, monospace" font-size="13" fill="#e2e8f0">How do I build a RAG pipeline?</text>
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0s" fill="freeze"/>
+    </g>
+
+    <!-- ai bubble streaming -->
+    <g transform="translate(40,-30)">
+      <rect width="260" height="70" rx="14" fill="url(#aiBubble)" stroke="#c084fc" stroke-opacity="0.55"/>
+      <text x="18" y="28" font-family="ui-monospace, monospace" font-size="13" fill="#7dd3fc">
+        <tspan>Use embeddings + a vector DB,</tspan>
+        <animate attributeName="opacity" values="0;1" dur="0.8s" begin="1s" fill="freeze"/>
+      </text>
+      <text x="18" y="48" font-family="ui-monospace, monospace" font-size="13" fill="#7dd3fc">
+        <tspan>retrieve top-k, then prompt an LLM</tspan>
+        <animate attributeName="opacity" values="0;1" dur="0.8s" begin="2s" fill="freeze"/>
+      </text>
+      <!-- typing cursor -->
+      <rect x="238" y="52" width="8" height="2" fill="#c084fc">
+        <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- confirmation -->
+    <g transform="translate(-220,60)">
+      <rect width="220" height="42" rx="14" fill="url(#userBubble)" stroke="#2ec5ff" stroke-opacity="0.35"/>
+      <text x="18" y="26" font-family="ui-monospace, monospace" font-size="13" fill="#e2e8f0">Streaming responses </text>
+      <text x="176" y="26" font-family="ui-monospace, monospace" font-size="13" fill="#2ec5ff">✓</text>
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="3.2s" fill="freeze"/>
+    </g>
+  </g>
+
+  <!-- floating particles -->
+  <g fill="#2ec5ff">
+    <circle cx="60" cy="120" r="2"><animate attributeName="cy" values="120;60;120" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;1;0.2" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="540" cy="250" r="2" fill="#c084fc"><animate attributeName="cy" values="250;180;250" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;1;0.2" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="80" cy="260" r="1.5"><animate attributeName="cy" values="260;220;260" dur="5s" repeatCount="indefinite"/></circle>
+  </g>
 </svg>

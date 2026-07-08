@@ -1,20 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" width="600" height="320" role="img" aria-label="StockAI — forecasting">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0f1e"/><stop offset="1" stop-color="#0f1a33"/></linearGradient>
-    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2ec5ff"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
-    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2ec5ff" stop-opacity="0.5"/><stop offset="1" stop-color="#2ec5ff" stop-opacity="0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05070d"/><stop offset="1" stop-color="#0f1a33"/></linearGradient>
+    <linearGradient id="ac3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2ec5ff"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2ec5ff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#2ec5ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="area2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c084fc" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#c084fc" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid3" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1a2740" stroke-width="0.4" opacity="0.4"/></pattern>
+    <filter id="lineGlow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <rect width="600" height="300" rx="12" fill="url(#bg)"/>
-  <rect x="1" y="1" width="598" height="298" rx="12" fill="none" stroke="url(#ac)" stroke-opacity="0.35"/>
-  <text x="24" y="30" font-family="Segoe UI, sans-serif" font-weight="700" font-size="14" fill="url(#ac)">STOCKAI · forecast</text>
-  <!-- grid -->
-  <g stroke="#1e293b" stroke-width="1">
-    <line x1="40" y1="80" x2="560" y2="80"/>
-    <line x1="40" y1="140" x2="560" y2="140"/>
-    <line x1="40" y1="200" x2="560" y2="200"/>
-    <line x1="40" y1="260" x2="560" y2="260"/>
+
+  <rect width="600" height="320" rx="14" fill="url(#bg3)"/>
+  <rect width="600" height="320" rx="14" fill="url(#grid3)"/>
+  <rect x="0.5" y="0.5" width="599" height="319" rx="14" fill="none" stroke="url(#ac3)" stroke-opacity="0.4"/>
+
+  <g transform="translate(24,28)">
+    <circle r="5" fill="#2ec5ff"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="14" y="4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="700" fill="url(#ac3)" letter-spacing="1.5">STOCKAI · forecast</text>
   </g>
-  <path d="M40,240 L100,220 L160,200 L220,210 L280,170 L340,180 L400,140 L460,120 L520,90 L560,100 L560,260 L40,260 Z" fill="url(#area)"/>
-  <path d="M40,240 L100,220 L160,200 L220,210 L280,170 L340,180 L400,140 L460,120 L520,90 L560,100" fill="none" stroke="#c084fc" stroke-width="2.5"/>
-  <circle cx="520" cy="90" r="4" fill="#c084fc"/>
+
+  <!-- ticker bar -->
+  <g transform="translate(24,52)" font-family="ui-monospace, monospace" font-size="10">
+    <text x="0" y="0" fill="#22c55e">▲ AAPL 214.32 +1.24%</text>
+    <text x="140" y="0" fill="#ef4444">▼ TSLA 187.90 -0.42%</text>
+    <text x="290" y="0" fill="#22c55e">▲ NVDA 892.15 +3.11%</text>
+    <text x="440" y="0" fill="#c084fc">◆ BTC 68,420</text>
+  </g>
+
+  <!-- axes -->
+  <g stroke="#1e293b" stroke-width="1">
+    <line x1="40" y1="90" x2="560" y2="90"/>
+    <line x1="40" y1="150" x2="560" y2="150" stroke-dasharray="2 4"/>
+    <line x1="40" y1="210" x2="560" y2="210" stroke-dasharray="2 4"/>
+    <line x1="40" y1="270" x2="560" y2="270"/>
+  </g>
+
+  <!-- historical area -->
+  <path d="M40,250 L100,235 L160,215 L220,220 L280,190 L340,195 L400,165 L460,145 L520,120 L560,135 L560,270 L40,270 Z" fill="url(#area2)" opacity="0.5"/>
+
+  <!-- forecast area draws in -->
+  <path fill="url(#area)">
+    <animate attributeName="d"
+      values="M40,250 L100,250 L160,250 L220,250 L280,250 L340,250 L400,250 L460,250 L520,250 L560,250 L560,270 L40,270 Z;
+              M40,250 L100,225 L160,205 L220,215 L280,175 L340,185 L400,145 L460,125 L520,95 L560,105 L560,270 L40,270 Z"
+      dur="2.4s" fill="freeze"/>
+  </path>
+
+  <!-- forecast line -->
+  <path fill="none" stroke="url(#ac3)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#lineGlow)"
+        stroke-dasharray="1000" stroke-dashoffset="1000"
+        d="M40,250 L100,225 L160,205 L220,215 L280,175 L340,185 L400,145 L460,125 L520,95 L560,105">
+    <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="2.4s" fill="freeze"/>
+  </path>
+
+  <!-- pulsing latest point -->
+  <g transform="translate(520,95)">
+    <circle r="12" fill="#c084fc" opacity="0.3">
+      <animate attributeName="r" values="8;18;8" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0;0.6" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="5" fill="#c084fc"/>
+  </g>
+
+  <!-- floating candlesticks (isometric 3D bars) -->
+  <g opacity="0.85">
+    <g transform="translate(90,230) skewY(-10)"><rect width="8" height="20" fill="#22c55e" rx="1"><animate attributeName="height" values="20;28;20" dur="3s" repeatCount="indefinite"/></rect></g>
+    <g transform="translate(200,225) skewY(-10)"><rect width="8" height="18" fill="#ef4444" rx="1"><animate attributeName="height" values="18;12;18" dur="3.5s" repeatCount="indefinite"/></rect></g>
+    <g transform="translate(320,205) skewY(-10)"><rect width="8" height="26" fill="#22c55e" rx="1"><animate attributeName="height" values="26;34;26" dur="2.8s" repeatCount="indefinite"/></rect></g>
+    <g transform="translate(430,170) skewY(-10)"><rect width="8" height="32" fill="#22c55e" rx="1"><animate attributeName="height" values="32;40;32" dur="2.5s" repeatCount="indefinite"/></rect></g>
+  </g>
 </svg>

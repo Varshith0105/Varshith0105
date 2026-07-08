@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Varshith Julakanti — AI/ML Engineer, Generative AI Enthusiast, Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070d"/>
+      <stop offset="50%" stop-color="#0a0f1e"/>
+      <stop offset="100%" stop-color="#0d0620"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2ec5ff"/>
+      <stop offset="55%" stop-color="#7aa2ff"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <radialGradient id="ringGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="60%" stop-color="#0a0f1e" stop-opacity="0"/>
+      <stop offset="85%" stop-color="#2ec5ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.9"/>
+    </radialGradient>
+    <radialGradient id="blob1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2ec5ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#2ec5ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a2740" stroke-width="0.5" opacity="0.35"/>
+    </pattern>
+    <clipPath id="avatarClip">
+      <circle cx="960" cy="220" r="150"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="440" fill="url(#bg)"/>
+  <rect width="1200" height="440" fill="url(#grid)"/>
+  <circle cx="200" cy="100" r="260" fill="url(#blob1)"/>
+  <circle cx="1050" cy="360" r="260" fill="url(#blob2)"/>
+
+  <!-- terminal chip -->
+  <g transform="translate(60,44)">
+    <text x="0" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#8b5cf6">&gt;</text>
+    <text x="18" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#7dd3fc">varshith@github</text>
+    <text x="155" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#94a3b8">:~$ whoami</text>
+  </g>
+
+  <!-- greeting -->
+  <text x="60" y="120" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="26" fill="#cbd5e1">Hi, I'm</text>
+
+  <!-- name -->
+  <text x="60" y="200" font-family="Segoe UI, Inter, system-ui, sans-serif" font-weight="800" font-size="72" fill="url(#nameGrad)">Varshith Julakanti</text>
+
+  <!-- roles -->
+  <text x="60" y="248" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="20" fill="#e2e8f0">
+    <tspan fill="#7dd3fc">AI/ML Engineer</tspan>
+    <tspan dx="10" fill="#475569">|</tspan>
+    <tspan dx="10" fill="#a78bfa">Generative AI Enthusiast</tspan>
+    <tspan dx="10" fill="#475569">|</tspan>
+    <tspan dx="10" fill="#67e8f9">Full Stack Developer</tspan>
+  </text>
+
+  <!-- bio -->
+  <text x="60" y="296" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="15" fill="#94a3b8">
+    <tspan x="60" dy="0">Computer Science undergraduate specializing in Artificial Intelligence</tspan>
+    <tspan x="60" dy="20">and Machine Learning. I build intelligent, scalable and impactful</tspan>
+    <tspan x="60" dy="20">AI-powered applications that solve real-world problems.</tspan>
+  </text>
+
+  <!-- location -->
+  <g transform="translate(60,400)">
+    <circle cx="6" cy="-4" r="4" fill="none" stroke="#7dd3fc" stroke-width="1.5"/>
+    <text x="18" y="0" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="13" fill="#94a3b8">Hyderabad, Telangana, India</text>
+  </g>
+
+  <!-- avatar ring -->
+  <circle cx="960" cy="220" r="170" fill="url(#ringGlow)"/>
+  <circle cx="960" cy="220" r="155" fill="none" stroke="#2ec5ff" stroke-width="2" opacity="0.9"/>
+  <circle cx="960" cy="220" r="162" fill="none" stroke="#c084fc" stroke-width="1" opacity="0.6"/>
+  <image href="https://github.com/Varshith0105.png" x="810" y="70" width="300" height="300" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+</svg>

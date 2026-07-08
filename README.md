@@ -16,7 +16,7 @@
 
 ---
 
-## 👤 About Me &nbsp;·&nbsp; ⚡ What I Do
+<img src="./assets/svg/section-about.svg" width="100%" alt="About Me"/>
 
 <table width="100%">
 <tr>
@@ -53,7 +53,7 @@ computer vision and full-stack applications.
 
 ---
 
-## 🛠️ Tech Stack
+<img src="./assets/svg/section-stack.svg" width="100%" alt="Tech Stack"/>
 
 <table width="100%">
 <tr>
@@ -129,7 +129,7 @@ computer vision and full-stack applications.
 
 ---
 
-## 💼 Experience
+<img src="./assets/svg/section-exp.svg" width="100%" alt="Experience"/>
 
 > **AI Engineer** &nbsp;·&nbsp; *Eco-Focused LLM & GenAI Systems*
 >
@@ -141,7 +141,9 @@ computer vision and full-stack applications.
 
 ---
 
-## 🚀 Featured Projects &nbsp;·&nbsp; [View all repositories →](https://github.com/Varshith0105?tab=repositories)
+<img src="./assets/svg/section-proj.svg" width="100%" alt="Featured Projects"/>
+
+<p align="right"><a href="https://github.com/Varshith0105?tab=repositories"><b>View all repositories →</b></a></p>
 
 <table width="100%">
 <tr>
@@ -212,7 +214,7 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 
 ---
 
-## 📜 Certifications
+<img src="./assets/svg/section-cert.svg" width="100%" alt="Certifications"/>
 
 <table width="100%">
 <tr>
@@ -229,7 +231,7 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 
 ---
 
-## 📊 GitHub Analytics
+<img src="./assets/svg/section-stats.svg" width="100%" alt="GitHub Analytics"/>
 
 <table width="100%">
 <tr>
@@ -252,15 +254,14 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 
 ---
 
-## 📈 Contribution Activity
+<img src="./assets/svg/section-contrib.svg" width="100%" alt="Contribution Activity"/>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/2ec5ff/Varshith0105" alt="Varshith0105 · Contribution Graph" width="100%"/>
 </p>
 
----
 
-## 🐍 Contribution Snake
+<img src="./assets/svg/section-snake.svg" width="100%" alt="Contribution Snake"/>
 
 <p align="center">
   <picture>
@@ -274,7 +275,7 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 
 ---
 
-## 📬 Let's Connect
+<img src="./assets/svg/section-connect.svg" width="100%" alt="Let's Connect"/>
 
 <table width="100%">
 <tr>
@@ -284,6 +285,8 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 <td align="center" width="25%"><a href="https://github.com/Varshith0105"><img src="https://img.shields.io/badge/GitHub-0a0f1e?style=for-the-badge&logo=github&logoColor=a78bfa"/></a><br/><sub>Varshith0105</sub></td>
 </tr>
 </table>
+
+<img src="./assets/svg/footer.svg" width="100%" alt="Session complete — system online"/>
 
 <p align="center"><sub>📍 Hyderabad, Telangana, India · Built with ⚡ and ☕ · © 2026 Varshith Julakanti</sub></p>
 

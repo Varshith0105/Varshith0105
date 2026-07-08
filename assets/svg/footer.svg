@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="Session complete — system online">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070d"/>
+      <stop offset="1" stop-color="#0d0620"/>
+    </linearGradient>
+    <linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2ec5ff"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <pattern id="fgrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1a2740" stroke-width="0.4" opacity="0.4"/>
+    </pattern>
+    <clipPath id="ft1"><rect x="40" y="30" width="0" height="24"><animate attributeName="width" from="0" to="360" dur="1.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="ft2"><rect x="40" y="60" width="0" height="24"><animate attributeName="width" from="0" to="320" dur="1.4s" begin="1.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="ft3"><rect x="40" y="90" width="0" height="24"><animate attributeName="width" from="0" to="280" dur="1.2s" begin="3.4s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect width="1200" height="140" rx="14" fill="url(#fbg)"/>
+  <rect width="1200" height="140" rx="14" fill="url(#fgrid)"/>
+  <rect x="0.5" y="0.5" width="1199" height="139" rx="14" fill="none" stroke="url(#fg)" stroke-opacity="0.5"/>
+
+  <!-- sweeping light -->
+  <rect x="-200" y="0" width="200" height="140" fill="url(#fg)" opacity="0.10">
+    <animate attributeName="x" values="-200;1200" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- terminal lines typing -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">
+    <g clip-path="url(#ft1)">
+      <text x="40" y="48"><tspan fill="#8b5cf6">&gt;</tspan> <tspan fill="#7dd3fc">varshith@ai-lab</tspan><tspan fill="#94a3b8">:~$ status --all</tspan></text>
+    </g>
+    <g clip-path="url(#ft2)">
+      <text x="40" y="78"><tspan fill="#22c55e">[ OK ]</tspan> <tspan fill="#e2e8f0">System Online · GPU Ready · Models Loaded</tspan></text>
+    </g>
+    <g clip-path="url(#ft3)">
+      <text x="40" y="108"><tspan fill="url(#fg)" font-weight="700">SESSION COMPLETE</tspan> <tspan fill="#94a3b8">— thanks for scrolling ✦</tspan></text>
+    </g>
+    <!-- blinking cursor at end -->
+    <rect y="94" width="8" height="16" fill="#c084fc">
+      <animate attributeName="x" values="40;320" dur="4.6s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- right side: circuit + pulse dots -->
+  <g transform="translate(900,30)">
+    <g stroke="url(#fg)" stroke-width="1" fill="none" opacity="0.6">
+      <path d="M0,40 L60,40 L80,60 L180,60 L200,40 L260,40"/>
+      <path d="M40,80 L120,80 L140,60"/>
+    </g>
+    <circle cx="60" cy="40" r="3" fill="#2ec5ff"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="140" cy="60" r="3" fill="#c084fc"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="40" r="3" fill="#7aa2ff"><animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="40" r="4" fill="#22c55e"><animate attributeName="r" values="3;6;3" dur="1.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- underline gradient -->
+  <rect x="0" y="136" width="1200" height="4" fill="url(#fg)" opacity="0.6"/>
+</svg>

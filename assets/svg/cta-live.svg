@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0a0f1e"/>
+      <stop offset="100%" stop-color="#0d2b1f"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="118" height="38" rx="8" fill="url(#lg)" stroke="#39d353" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="16" cy="20" r="4" fill="#39d353" filter="url(#glow)">
+    <animate attributeName="r" values="3;5;3" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="28" y="25" font-family="monospace" font-size="12" font-weight="bold" fill="#39d353" filter="url(#glow)">LIVE DEMO</text>
+  <g transform="translate(96,20)" fill="none" stroke="#39d353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+    <path d="M0 0 L10 0 M6 -4 L10 0 L6 4">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 4 0; 0 0" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

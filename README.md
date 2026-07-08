@@ -267,7 +267,7 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api?username=Varshith0105&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&card_width=500" alt="Varshith0105 · GitHub Stats" height="185"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500" alt="Varshith0105 · GitHub Stats" height="185"/>
 </td>
 <td width="50%" align="center">
   <img src="https://streak-stats.demolab.com?user=Varshith0105&theme=tokyonight&hide_border=true&card_width=500" alt="Varshith0105 · GitHub Streak" height="185"/>
@@ -275,7 +275,7 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 </tr>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Varshith0105&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&card_width=500" alt="Top Languages" height="185"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith0105&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" height="185"/>
 </td>
 <td width="50%" align="center">
   <img src="https://profile-trophy.vercel.app/?username=Varshith0105&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" alt="GitHub Trophies" height="185"/>

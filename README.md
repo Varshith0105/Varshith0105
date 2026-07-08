@@ -270,7 +270,7 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varshith0105&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500&bg_color=0a0f1e&title_color=2ec5ff&icon_color=a78bfa" alt="Varshith0105 · GitHub Stats" height="185"/>
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varshith0105&theme=tokyonight&hide_border=true&card_width=500&background=0a0f1e&stroke=0a0f1e&ring=2ec5ff&fire=a78bfa&currStreakLabel=2ec5ff" alt="Varshith0105 · GitHub Streak" height="185"/>
+  <img src="https://streak-stats.demolab.com/?user=Varshith0105&theme=tokyonight&hide_border=true&card_width=495&background=0a0f1e&stroke=0a0f1e&ring=2ec5ff&fire=a78bfa&currStreakLabel=2ec5ff&v=3" alt="Varshith0105 · GitHub Streak" height="185"/>
 </td>
 </tr>
 <tr>

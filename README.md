@@ -302,19 +302,27 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="60%" valign="top" align="center">
 
-<p align="right"><sub><a href="https://github.com/Varshith0105">github.com/Varshith0105</a></sub></p>
+<a href="https://github.com/Varshith0105">
+  <img src="https://github.com/Varshith0105.png" width="86" height="86" align="left" style="border-radius:50%" alt="Varshith0105 avatar"/>
+</a>
+
+**[Varshith0105](https://github.com/Varshith0105)** &nbsp;·&nbsp; AI / ML Engineer
+<br/>
+<a href="https://github.com/Varshith0105?tab=repositories"><img src="https://img.shields.io/github/followers/Varshith0105?style=for-the-badge&logo=github&logoColor=2ec5ff&labelColor=0a0f1e&color=7aa2ff&label=Followers"/></a>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVarshith0105&query=%24.public_repos&label=Repos&style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0a0f1e&color=a78bfa"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVarshith0105&query=%24.following&label=Following&style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0a0f1e&color=c084fc"/>
+<a href="https://github.com/Varshith0105"><img src="https://img.shields.io/badge/View_Profile-0a0f1e?style=for-the-badge&logo=github&logoColor=2ec5ff&labelColor=0a0f1e&color=2ec5ff"/></a>
 
 </td>
 <td width="40%" valign="top">
 
 > **⟡ CURRENT FOCUS**
-> ```
-> > Building AI products
-> > Learning everyday
-> > Shipping impact
-> ```
+>
+> ▸ Building AI products
+> <br/>▸ Learning everyday
+> <br/>▸ Shipping impact
 
 </td>
 </tr>
@@ -324,23 +332,27 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 
 <table width="100%">
 <tr>
-<td width="50%" align="center" valign="top">
-  <a href="https://github.com/Varshith0105/semantic-search-system"><img src="https://img.shields.io/badge/semantic--search--system-0a0f1e?style=for-the-badge&logo=github&logoColor=2ec5ff&labelColor=0a0f1e"/></a><br/>
-  <sub>Semantic search with fuzzy clustering &amp; semantic cache · Jupyter</sub>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/Varshith0105/semantic-search-system">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Varshith0105&repo=semantic-search-system&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=2ec5ff&icon_color=a78bfa" alt="semantic-search-system" height="130"/>
+  </a>
 </td>
-<td width="50%" align="center" valign="top">
-  <a href="https://github.com/Varshith0105/Drug_Discovery_AI_CNN-Based"><img src="https://img.shields.io/badge/Drug__Discovery__AI__CNN-0a0f1e?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0a0f1e"/></a><br/>
-  <sub>CNN-based DTI prediction platform · TypeScript · ⭐ 1</sub>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/Varshith0105/Drug_Discovery_AI_CNN-Based">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Varshith0105&repo=Drug_Discovery_AI_CNN-Based&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=2ec5ff&icon_color=a78bfa" alt="Drug_Discovery_AI_CNN-Based" height="130"/>
+  </a>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
-  <a href="https://github.com/Varshith0105/stock-predictor-pro"><img src="https://img.shields.io/badge/stock--predictor--pro-0a0f1e?style=for-the-badge&logo=github&logoColor=7aa2ff&labelColor=0a0f1e"/></a><br/>
-  <sub>LSTM stock forecasting dashboard · TypeScript · ⭐ 1</sub>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/Varshith0105/stock-predictor-pro">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Varshith0105&repo=stock-predictor-pro&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=2ec5ff&icon_color=a78bfa" alt="stock-predictor-pro" height="130"/>
+  </a>
 </td>
-<td width="50%" align="center" valign="top">
-  <a href="https://github.com/Varshith0105/your-personal-ai-chat"><img src="https://img.shields.io/badge/your--personal--ai--chat-0a0f1e?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0a0f1e"/></a><br/>
-  <sub>AI chat with streaming &amp; context memory · Jupyter</sub>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/Varshith0105/your-personal-ai-chat">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Varshith0105&repo=your-personal-ai-chat&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=2ec5ff&icon_color=a78bfa" alt="your-personal-ai-chat" height="130"/>
+  </a>
 </td>
 </tr>
 </table>

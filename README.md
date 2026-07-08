@@ -3,61 +3,63 @@
      Theme: Cyber Blue / Purple · Dark · Glassmorphism
      ============================================================ -->
 
+<!-- ================== HERO ================== -->
 <a href="https://github.com/Varshith0105">
   <img src="./assets/svg/hero.svg" alt="Varshith Julakanti — AI/ML Engineer · Generative AI Enthusiast · Full Stack Developer" width="100%"/>
 </a>
 
 <p align="center">
   <a href="https://varshith-portfolio-omega.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-0a0f1e?style=for-the-badge&labelColor=0a0f1e&color=2ec5ff" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/varshith-j"><img src="https://img.shields.io/badge/LinkedIn-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=2ec5ff&labelColor=0a0f1e&color=7aa2ff" alt="LinkedIn"/></a>
   <a href="https://github.com/Varshith0105"><img src="https://img.shields.io/badge/GitHub-0a0f1e?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f1e&color=a78bfa" alt="GitHub"/></a>
-  <a href="mailto:varshithjulakanti@gmail.com"><img src="https://img.shields.io/badge/Resume-0a0f1e?style=for-the-badge&logo=readthedocs&logoColor=c084fc&labelColor=0a0f1e&color=c084fc" alt="Resume"/></a>
+  <a href="https://www.linkedin.com/in/varshith-j"><img src="https://img.shields.io/badge/LinkedIn-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=2ec5ff&labelColor=0a0f1e&color=7aa2ff" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/varshith0105"><img src="https://img.shields.io/badge/Instagram-0a0f1e?style=for-the-badge&logo=instagram&logoColor=e1306c&labelColor=0a0f1e&color=e1306c" alt="Instagram"/></a>
+  <a href="mailto:varshithjulakanti@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f1e?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0a0f1e&color=c084fc" alt="Email"/></a>
+  <a href="mailto:varshithjulakanti@gmail.com"><img src="https://img.shields.io/badge/Resume-0a0f1e?style=for-the-badge&logo=readthedocs&logoColor=2ec5ff&labelColor=0a0f1e&color=2ec5ff" alt="Resume"/></a>
 </p>
 
 ---
 
+<!-- ================== ABOUT ================== -->
 <img src="./assets/svg/section-about.svg" width="100%" alt="About Me"/>
 
-<table width="100%">
-<tr>
-<td width="42%" valign="top">
+<p align="center">
+Passionate about building <b>AI systems that create real impact</b>.<br/>
+I enjoy working on Generative AI, LLMs, retrieval systems, computer vision and full-stack applications.
+</p>
 
-Passionate about building **AI systems that create real impact**.
-I enjoy working on Generative AI, LLMs, retrieval systems,
-computer vision and full-stack applications.
+<p align="center">
+🚀 Always learning new technologies &nbsp;·&nbsp;
+🤖 Building AI applications & intelligent agents &nbsp;·&nbsp;
+🤝 Open to collaborate on impactful projects &nbsp;·&nbsp;
+⚡ Turning ideas into working products
+</p>
 
-- 🚀 Always learning new technologies
-- 🤖 Building AI applications & intelligent agents
-- 🤝 Open to collaborate on impactful projects
-- ⚡ Fun fact: I love turning ideas into working products
+---
 
-</td>
-<td width="58%" valign="top">
+<!-- ================== WHAT I DO ================== -->
+<img src="./assets/svg/section-exp.svg" width="100%" alt="What I Do"/>
 
 <table width="100%">
 <tr>
 <td align="center" width="33%">🤖 <b>Generative AI</b><br/><sub>LLMs · RAG · LangChain</sub></td>
 <td align="center" width="33%">🧠 <b>Machine Learning</b><br/><sub>Models that learn</sub></td>
-<td align="center" width="33%">👁️ <b>Computer Vision</b><br/><sub>Image understanding</sub></td>
+<td align="center" width="34%">👁️ <b>Computer Vision</b><br/><sub>Image understanding</sub></td>
 </tr>
 <tr>
-<td align="center">🧩 <b>Full Stack Dev</b><br/><sub>End-to-end solutions</sub></td>
-<td align="center">📊 <b>Data & Analytics</b><br/><sub>Turning data into insight</sub></td>
-<td align="center">☁️ <b>Cloud & MLOps</b><br/><sub>Deploy · Monitor · Scale</sub></td>
-</tr>
-</table>
-
-</td>
+<td align="center" width="33%">🧩 <b>Full Stack Dev</b><br/><sub>End-to-end solutions</sub></td>
+<td align="center" width="33%">📊 <b>Data & Analytics</b><br/><sub>Turning data into insight</sub></td>
+<td align="center" width="34%">☁️ <b>Cloud & MLOps</b><br/><sub>Deploy · Monitor · Scale</sub></td>
 </tr>
 </table>
 
 ---
 
+<!-- ================== TECH STACK ================== -->
 <img src="./assets/svg/section-stack.svg" width="100%" alt="Tech Stack"/>
 
 <table width="100%">
 <tr>
-<td valign="top" width="16%">
+<td valign="top" width="16.66%">
 
 **AI / ML**
 
@@ -69,7 +71,7 @@ computer vision and full-stack applications.
 ![HuggingFace](https://img.shields.io/badge/-Hugging_Face-0a0f1e?style=flat-square&logo=huggingface&logoColor=ffcc4d)
 
 </td>
-<td valign="top" width="17%">
+<td valign="top" width="16.66%">
 
 **Generative AI**
 
@@ -81,7 +83,7 @@ computer vision and full-stack applications.
 ![OpenAI](https://img.shields.io/badge/-OpenAI_API-0a0f1e?style=flat-square&logo=openai&logoColor=2ec5ff)
 
 </td>
-<td valign="top" width="17%">
+<td valign="top" width="16.66%">
 
 **Backend & APIs**
 
@@ -91,7 +93,7 @@ computer vision and full-stack applications.
 ![Streamlit](https://img.shields.io/badge/-Streamlit-0a0f1e?style=flat-square&logo=streamlit&logoColor=ff4b4b)
 
 </td>
-<td valign="top" width="17%">
+<td valign="top" width="16.66%">
 
 **Frontend**
 
@@ -102,7 +104,7 @@ computer vision and full-stack applications.
 ![Next.js](https://img.shields.io/badge/-Next.js-0a0f1e?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 
 </td>
-<td valign="top" width="14%">
+<td valign="top" width="16.66%">
 
 **Databases**
 
@@ -112,25 +114,15 @@ computer vision and full-stack applications.
 ![MySQL](https://img.shields.io/badge/-MySQL-0a0f1e?style=flat-square&logo=mysql&logoColor=4479a1)
 
 </td>
-<td valign="top" width="14%">
+<td valign="top" width="16.7%">
 
-**DevOps / Tools**
+**Cloud & DevOps**
 
 ![Docker](https://img.shields.io/badge/-Docker-0a0f1e?style=flat-square&logo=docker&logoColor=2496ed)
-![Git](https://img.shields.io/badge/-Git_&_GitHub-0a0f1e?style=flat-square&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/-VS_Code-0a0f1e?style=flat-square&logo=visualstudiocode&logoColor=2ec5ff)
-![Linux](https://img.shields.io/badge/-Linux-0a0f1e?style=flat-square&logo=linux&logoColor=fcc624)
-![CI/CD](https://img.shields.io/badge/-CI/CD-0a0f1e?style=flat-square&logo=githubactions&logoColor=2088ff)
-
-</td>
-<td valign="top" width="14%">
-
-**Cloud**
-
 ![AWS](https://img.shields.io/badge/-AWS-0a0f1e?style=flat-square&logo=amazonaws&logoColor=ff9900)
-![GCP](https://img.shields.io/badge/-Google_Cloud-0a0f1e?style=flat-square&logo=googlecloud&logoColor=4285f4)
-![Render](https://img.shields.io/badge/-Render-0a0f1e?style=flat-square&logo=render&logoColor=46e3b7)
+![GCP](https://img.shields.io/badge/-GCP-0a0f1e?style=flat-square&logo=googlecloud&logoColor=4285f4)
 ![Vercel](https://img.shields.io/badge/-Vercel-0a0f1e?style=flat-square&logo=vercel&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-0a0f1e?style=flat-square&logo=git&logoColor=f05032)
 
 </td>
 </tr>
@@ -138,18 +130,7 @@ computer vision and full-stack applications.
 
 ---
 
-<img src="./assets/svg/section-exp.svg" width="100%" alt="Experience"/>
-
-> **AI Engineer** &nbsp;·&nbsp; *Eco-Focused LLM & GenAI Systems*
->
-> - Designed and deployed LLM applications optimized for reduced computational cost and energy efficiency.
-> - Built intelligent workflows with **LangChain** and multi-agent pipelines with **LangGraph**.
-> - Implemented **RAG** systems, prompt optimization, caching and workflow pruning.
-> - Integrated open-source models to reduce dependency on high-energy proprietary systems.
-> - Ensured responsible, scalable and eco-friendly AI deployment.
-
----
-
+<!-- ================== FEATURED PROJECTS ================== -->
 <img src="./assets/svg/section-proj.svg" width="100%" alt="Featured Projects"/>
 
 <p align="right"><a href="https://github.com/Varshith0105?tab=repositories"><b>View all repositories →</b></a></p>
@@ -245,115 +226,79 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 
 ---
 
-<img src="./assets/svg/section-cert.svg" width="100%" alt="Certifications"/>
-
-<table width="100%">
-<tr>
-<td align="center" width="12.5%"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br/><sub>OCI 2025 Generative AI Professional</sub></td>
-<td align="center" width="12.5%"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br/><sub>OCI 2025 AI Foundations Associate</sub></td>
-<td align="center" width="12.5%"><img src="https://img.shields.io/badge/AWS_Academy-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ff9900"/><br/><sub>Cloud Foundations</sub></td>
-<td align="center" width="12.5%"><img src="https://img.shields.io/badge/AWS_Academy-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ff9900"/><br/><sub>Cloud Architecting</sub></td>
-<td align="center" width="12.5%"><img src="https://img.shields.io/badge/NPTEL-2ec5ff?style=for-the-badge&logo=googlescholar&logoColor=white"/><br/><sub>Intro to Large Language Models</sub></td>
-<td align="center" width="12.5%"><img src="https://img.shields.io/badge/NPTEL-7aa2ff?style=for-the-badge&logo=googlescholar&logoColor=white"/><br/><sub>Artificial Intelligence</sub></td>
-<td align="center" width="12.5%"><img src="https://img.shields.io/badge/JPMorgan_Chase-004481?style=for-the-badge&logo=jpmorganchase&logoColor=white"/><br/><sub>Software Engineering Job Simulation</sub></td>
-<td align="center" width="12.5%"><img src="https://img.shields.io/badge/TCS-0070C0?style=for-the-badge&logo=tcs&logoColor=white"/><br/><sub>GenAI-Powered Data Analytics Job Simulation</sub></td>
-</tr>
-</table>
-
----
-
+<!-- ================== GITHUB ANALYTICS ================== -->
 <img src="./assets/svg/section-stats.svg" width="100%" alt="GitHub Analytics"/>
 
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&card_width=500" alt="Varshith0105 · GitHub Stats" height="185"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&card_width=495" alt="Varshith0105 · GitHub Stats" height="195"/>
 </td>
 <td width="50%" align="center">
-  <img src="https://streak-stats.demolab.com?user=Varshith0105&theme=tokyonight&hide_border=true&card_width=500" alt="Varshith0105 · GitHub Streak" height="185"/>
+  <img src="https://streak-stats.demolab.com?user=Varshith0105&theme=tokyonight&hide_border=true&card_width=495" alt="Varshith0105 · GitHub Streak" height="195"/>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith0105&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&card_width=500" alt="Top Languages" height="185"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith0105&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&card_width=495" alt="Top Languages" height="195"/>
 </td>
 <td width="50%" align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" alt="GitHub Trophies" height="185"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=10&margin-h=10" alt="GitHub Trophies" height="195"/>
 </td>
 </tr>
 </table>
 
+<!-- ================== CONTRIBUTION GRAPH ================== -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshith0105&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity" alt="Activity Graph" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshith0105&theme=tokyo-night&hide_border=true&area=true&radius=16&custom_title=Contribution+Activity" alt="Contribution Activity Graph" width="98%"/>
 </p>
 
----
-
-<img src="./assets/svg/section-contrib.svg" width="100%" alt="Contribution Activity"/>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/39d353/Varshith0105" alt="Varshith0105 · Contribution Graph" width="100%" style="background:#000"/>
-</p>
-
-
-<img src="./assets/svg/section-snake.svg" width="100%" alt="Contribution Snake"/>
-
+<!-- ================== CONTRIBUTION SNAKE ================== -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake.svg"/>
-    <img alt="Varshith0105 · Contribution Snake" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake-dark.svg" width="100%"/>
+    <img alt="Varshith0105 · Contribution Snake" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake-dark.svg" width="98%"/>
   </picture>
 </p>
 
+---
+
+<!-- ================== CERTIFICATIONS ================== -->
+<img src="./assets/svg/section-cert.svg" width="100%" alt="Certifications"/>
+
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
-
-<p align="right"><sub><a href="https://github.com/Varshith0105">github.com/Varshith0105</a></sub></p>
-
-</td>
-<td width="40%" valign="top">
-
-> **⟡ CURRENT FOCUS**
-> ```
-> > Building AI products
-> > Learning everyday
-> > Shipping impact
-> ```
-
-</td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br/><sub>OCI 2025 Generative AI Professional</sub></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br/><sub>OCI 2025 AI Foundations Associate</sub></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/AWS_Academy-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ff9900"/><br/><sub>Cloud Foundations</sub></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/AWS_Academy-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ff9900"/><br/><sub>Cloud Architecting</sub></td>
 </tr>
-</table>
-
-### 🌱 Open Source
-
-<table width="100%">
 <tr>
-<td width="50%" align="center">
-  <a href="https://github.com/Varshith0105?tab=repositories"><img src="https://img.shields.io/badge/awesome--ai--tools-0a0f1e?style=for-the-badge&logo=github&logoColor=2ec5ff&labelColor=0a0f1e"/></a><br/>
-  <sub>Curated list of AI tools · Python</sub>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/Varshith0105?tab=repositories"><img src="https://img.shields.io/badge/ml--utils-0a0f1e?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0a0f1e"/></a><br/>
-  <sub>Machine Learning utilities · Python</sub>
-</td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/NPTEL-2ec5ff?style=for-the-badge&logo=googlescholar&logoColor=white"/><br/><sub>Intro to Large Language Models</sub></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/NPTEL-7aa2ff?style=for-the-badge&logo=googlescholar&logoColor=white"/><br/><sub>Artificial Intelligence</sub></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/JPMorgan_Chase-004481?style=for-the-badge&logo=jpmorganchase&logoColor=white"/><br/><sub>Software Engineering Job Simulation</sub></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/TCS-0070C0?style=for-the-badge&logo=tcs&logoColor=white"/><br/><sub>GenAI-Powered Data Analytics Simulation</sub></td>
 </tr>
 </table>
 
 ---
 
+<!-- ================== LET'S CONNECT ================== -->
 <img src="./assets/svg/section-connect.svg" width="100%" alt="Let's Connect"/>
 
 <table width="100%">
 <tr>
 <td align="center" width="25%"><a href="https://www.linkedin.com/in/varshith-j"><img src="https://img.shields.io/badge/LinkedIn-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=2ec5ff"/></a><br/><sub>varshith-j</sub></td>
-<td align="center" width="25%"><a href="https://varshith-portfolio-omega.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0f1e?style=for-the-badge&logo=vercel&logoColor=ffffff"/></a><br/><sub>varshith-portfolio-omega.vercel.app</sub></td>
+<td align="center" width="25%"><a href="https://varshith-portfolio-omega.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0f1e?style=for-the-badge&logo=vercel&logoColor=ffffff"/></a><br/><sub>varshith-portfolio-omega</sub></td>
 <td align="center" width="25%"><a href="mailto:varshithjulakanti@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f1e?style=for-the-badge&logo=gmail&logoColor=c084fc"/></a><br/><sub>varshithjulakanti@gmail.com</sub></td>
 <td align="center" width="25%"><a href="https://github.com/Varshith0105"><img src="https://img.shields.io/badge/GitHub-0a0f1e?style=for-the-badge&logo=github&logoColor=a78bfa"/></a><br/><sub>Varshith0105</sub></td>
 </tr>
 </table>
 
+---
+
+<!-- ================== FOOTER ================== -->
 <img src="./assets/svg/footer.svg" width="100%" alt="Session complete — system online"/>
 
 <p align="center"><sub>📍 Hyderabad, Telangana, India · Built with ⚡ and ☕ · © 2026 Varshith Julakanti</sub></p>

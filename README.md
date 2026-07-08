@@ -233,36 +233,40 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 
 <table width="100%">
 <tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&title_color=2ec5ff&icon_color=c084fc&text_color=cbd5e1&bg_color=0a0f1e&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="100%"/>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" alt="Varshith0105 · GitHub Stats" width="100%"/>
 </td>
-<td width="50%">
-  <img src="https://streak-stats.demolab.com?user=Varshith0105&theme=dark&hide_border=true&background=0a0f1e&stroke=1e293b&ring=2ec5ff&fire=c084fc&currStreakLabel=2ec5ff&sideNums=7aa2ff&currStreakNum=e2e8f0&dates=94a3b8" alt="GitHub Streak" width="100%"/>
+<td width="50%" align="center">
+  <img src="https://streak-stats.demolab.com?user=Varshith0105&theme=tokyonight&hide_border=true" alt="Varshith0105 · GitHub Streak" width="100%"/>
 </td>
 </tr>
 <tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith0105&layout=donut&hide_border=true&title_color=2ec5ff&text_color=cbd5e1&bg_color=0a0f1e&langs_count=6" alt="Top Languages" width="100%"/>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith0105&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages" width="100%"/>
 </td>
 <td width="50%" align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%"/>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📈 Contribution Activity &nbsp;·&nbsp; 🐍 Contribution Snake
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2ec5ff/Varshith0105" alt="Contribution Graph" width="100%"/>
+  <img src="https://ghchart.rshah.org/2ec5ff/Varshith0105" alt="Varshith0105 · Contribution Graph" width="100%"/>
 </p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake.svg"/>
+    <img alt="Varshith0105 · Contribution Snake" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake-dark.svg" width="100%"/>
   </picture>
 </p>
 

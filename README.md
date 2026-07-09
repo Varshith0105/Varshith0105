@@ -377,7 +377,7 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 
 <img src="./assets/svg/footer.svg" width="100%" alt="Session complete — system online"/>
 
-<p align="center"><sub>📍 Hyderabad, Telangana, India · Built with ⚡ and ☕ · © 2026 Varshith Julakanti</sub></p>
+<p align="center"><sub>📍 Hyderabad, Telangana, India . © 2026 Varshith Julakanti</sub></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Varshith0105&style=for-the-badge&color=2ec5ff&label=PROFILE+VIEWS" alt="Profile views"/>

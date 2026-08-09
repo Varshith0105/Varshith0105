@@ -11,7 +11,7 @@
   <a href="https://varshith-portfolio-omega.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-0a0f1e?style=for-the-badge&labelColor=0a0f1e&color=2ec5ff" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/varshith-j"><img src="https://img.shields.io/badge/LinkedIn-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=2ec5ff&labelColor=0a0f1e&color=7aa2ff" alt="LinkedIn"/></a>
   <a href="https://github.com/Varshith0105"><img src="https://img.shields.io/badge/GitHub-0a0f1e?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f1e&color=a78bfa" alt="GitHub"/></a>
-  <a href="mailto:varshithjulakanti@gmail.com"><img src="https://img.shields.io/badge/Resume-0a0f1e?style=for-the-badge&logo=readthedocs&logoColor=c084fc&labelColor=0a0f1e&color=c084fc" alt="Resume"/></a>
+  <a href="https://github.com/Varshith0105/Varshith0105/raw/main/assets/Varshith-Resume.pdf"><img src="https://img.shields.io/badge/📄_Resume-0a0f1e?style=for-the-badge&logo=readthedocs&logoColor=c084fc&labelColor=0a0f1e&color=c084fc" alt="Resume PDF"/></a>
 </p>
 
 ---
@@ -267,7 +267,9 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varshith0105&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500&bg_color=0a0f1e&title_color=2ec5ff&icon_color=a78bfa" alt="Varshith0105 · GitHub Stats" height="185"/>
+  <a href="https://github.com/Varshith0105" title="Open live GitHub stats">
+    <img src="./assets/svg/stats-card.svg" alt="Varshith0105 · GitHub Stats" height="185"/>
+  </a>
 </td>
 <td width="50%" align="center">
   <a href="https://streak-stats.demolab.com/?user=Varshith0105&theme=tokyonight" title="Open live GitHub streak stats">
@@ -277,7 +279,9 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 </tr>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varshith0105&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500&bg_color=0a0f1e&title_color=2ec5ff" alt="Top Languages" height="185"/>
+  <a href="https://github.com/Varshith0105?tab=repositories" title="Open repositories">
+    <img src="./assets/svg/top-langs-card.svg" alt="Top Languages" height="185"/>
+  </a>
 </td>
 <td width="50%" align="center">
   <img src="https://profile-trophy.vercel.app/?username=Varshith0105&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" alt="GitHub Trophies" height="185"/>
@@ -338,24 +342,24 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 <tr>
 <td width="50%" valign="top" align="center">
   <a href="https://github.com/Varshith0105/semantic-search-system">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Varshith0105&repo=semantic-search-system&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=2ec5ff&icon_color=a78bfa" alt="semantic-search-system" height="130"/>
+    <img src="./assets/svg/pin-semantic-search-system.svg" alt="semantic-search-system" height="130"/>
   </a>
 </td>
 <td width="50%" valign="top" align="center">
   <a href="https://github.com/Varshith0105/Drug_Discovery_AI_CNN-Based">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Varshith0105&repo=Drug_Discovery_AI_CNN-Based&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=2ec5ff&icon_color=a78bfa" alt="Drug_Discovery_AI_CNN-Based" height="130"/>
+    <img src="./assets/svg/pin-drug-discovery-ai-cnn-based.svg" alt="Drug_Discovery_AI_CNN-Based" height="130"/>
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
   <a href="https://github.com/Varshith0105/stock-predictor-pro">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Varshith0105&repo=stock-predictor-pro&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=2ec5ff&icon_color=a78bfa" alt="stock-predictor-pro" height="130"/>
+    <img src="./assets/svg/pin-stock-predictor-pro.svg" alt="stock-predictor-pro" height="130"/>
   </a>
 </td>
 <td width="50%" valign="top" align="center">
   <a href="https://github.com/Varshith0105/your-personal-ai-chat">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Varshith0105&repo=your-personal-ai-chat&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=2ec5ff&icon_color=a78bfa" alt="your-personal-ai-chat" height="130"/>
+    <img src="./assets/svg/pin-your-personal-ai-chat.svg" alt="your-personal-ai-chat" height="130"/>
   </a>
 </td>
 </tr>
@@ -367,17 +371,17 @@ Modern, responsive portfolio to showcase projects, skills and achievements.
 
 <table width="100%">
 <tr>
-<td align="center" width="20%"><a href="https://www.linkedin.com/in/varshith-j"><img src="https://img.shields.io/badge/LinkedIn-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=2ec5ff"/></a><br/><sub>varshith-j</sub></td>
-<td align="center" width="20%"><a href="https://varshith-portfolio-omega.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0f1e?style=for-the-badge&logo=vercel&logoColor=ffffff"/></a><br/><sub>varshith-portfolio</sub></td>
-<td align="center" width="20%"><a href="mailto:varshithjulakanti@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f1e?style=for-the-badge&logo=gmail&logoColor=c084fc"/></a><br/><sub>varshithjulakanti@gmail.com</sub></td>
-<td align="center" width="20%"><a href="https://www.instagram.com/varshith_0105"><img src="https://img.shields.io/badge/Instagram-0a0f1e?style=for-the-badge&logo=instagram&logoColor=e1306c"/></a><br/><sub>varshith_0105</sub></td>
+<td align="center" width="20%"><a href="https://www.linkedin.com/in/varshith-j/"><img src="https://img.shields.io/badge/LinkedIn-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=2ec5ff"/></a><br/><sub><a href="https://www.linkedin.com/in/varshith-j/">varshith-j</a></sub></td>
+<td align="center" width="20%"><a href="https://varshith-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0f1e?style=for-the-badge&logo=vercel&logoColor=ffffff"/></a><br/><sub><a href="https://varshith-portfolio-omega.vercel.app/">varshith-portfolio</a></sub></td>
+<td align="center" width="20%"><a href="mailto:varshithjulakanti@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f1e?style=for-the-badge&logo=gmail&logoColor=c084fc"/></a><br/><sub><a href="mailto:varshithjulakanti@gmail.com">varshithjulakanti@gmail.com</a></sub></td>
+<td align="center" width="20%"><a href="https://www.instagram.com/_.varshith_.7/"><img src="https://img.shields.io/badge/Instagram-0a0f1e?style=for-the-badge&logo=instagram&logoColor=e1306c"/></a><br/><sub><a href="https://www.instagram.com/_.varshith_.7/">_.varshith_.7</a></sub></td>
 <td align="center" width="20%"><a href="https://github.com/Varshith0105"><img src="https://img.shields.io/badge/GitHub-0a0f1e?style=for-the-badge&logo=github&logoColor=a78bfa"/></a><br/><sub>Varshith0105</sub></td>
 </tr>
 </table>
 
 <img src="./assets/svg/footer.svg" width="100%" alt="Session complete — system online"/>
 
-<p align="center"><sub>📍 Hyderabad, Telangana, India . © 2026 Varshith Julakanti</sub></p>
+<p align="center"><sub>📍 Hyderabad, Telangana, India · Built with ⚡ and ☕ · © 2026 Varshith Julakanti</sub></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Varshith0105&style=for-the-badge&color=2ec5ff&label=PROFILE+VIEWS" alt="Profile views"/>

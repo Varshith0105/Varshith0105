@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="185" viewBox="0 0 500 185" fill="none" role="img">
+<defs></defs>
+<rect x="0.5" y="0.5" rx="10" width="499" height="184" fill="#0a0f1e" stroke="#1e2a4a"/>
+<text x="25" y="35" font-family="Segoe UI,Ubuntu,sans-serif" font-weight="600" font-size="18" fill="#2ec5ff">Varshith Julakanti's GitHub Stats</text><g transform="translate(25,70)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.2s" fill="freeze"/>
+<circle cx="6" cy="-4" r="3.5" fill="#a78bfa"/>
+<text x="20" y="0" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="600" fill="#a9b1d6">Total Stars Earned:</text>
+<text x="255" y="0" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#2ec5ff">2</text></g><g transform="translate(25,92)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.32s" fill="freeze"/>
+<circle cx="6" cy="-4" r="3.5" fill="#a78bfa"/>
+<text x="20" y="0" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="600" fill="#a9b1d6">Total Commits (2026):</text>
+<text x="255" y="0" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#2ec5ff">531</text></g><g transform="translate(25,114)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.44s" fill="freeze"/>
+<circle cx="6" cy="-4" r="3.5" fill="#a78bfa"/>
+<text x="20" y="0" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="600" fill="#a9b1d6">Total PRs:</text>
+<text x="255" y="0" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#2ec5ff">7</text></g><g transform="translate(25,136)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.56s" fill="freeze"/>
+<circle cx="6" cy="-4" r="3.5" fill="#a78bfa"/>
+<text x="20" y="0" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="600" fill="#a9b1d6">Total Issues:</text>
+<text x="255" y="0" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#2ec5ff">0</text></g><g transform="translate(25,158)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6799999999999999s" fill="freeze"/>
+<circle cx="6" cy="-4" r="3.5" fill="#a78bfa"/>
+<text x="20" y="0" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="600" fill="#a9b1d6">Contributed to:</text>
+<text x="255" y="0" font-family="Segoe UI,Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#2ec5ff">20</text></g><g transform="translate(400,105)">
+<circle r="40" fill="none" stroke="#1e2a4a" stroke-width="6"/>
+<circle r="40" fill="none" stroke="#2ec5ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="251" stroke-dashoffset="251" transform="rotate(-90)">
+<animate attributeName="stroke-dashoffset" from="251" to="60" dur="1.4s" begin="0.3s" fill="freeze"/></circle>
+<text text-anchor="middle" y="8" font-family="Segoe UI,Ubuntu,sans-serif" font-size="26" font-weight="700" fill="#c084fc">A+</text></g>
+</svg>

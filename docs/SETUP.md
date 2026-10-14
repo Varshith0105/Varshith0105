@@ -1,40 +1,20 @@
-# Setup Guide
+# Profile setup
 
-This is a **GitHub Profile README** repo. To use it:
+## Workflows
+| Workflow | Output | Needs |
+|---|---|---|
+| `metrics.yml` (lowlighter/metrics) | `metrics/metrics.classic.svg`, `metrics/metrics.isocalendar.svg` on `main` | `METRICS_TOKEN` secret |
+| `snake.yml` | `github-snake-dark.svg` on `output` branch | nothing (GITHUB_TOKEN) |
+| `profile-3d.yml` | `profile-3d-contrib/*.svg` | existing config |
 
-## 1. Create the special repository
+## One-time: METRICS_TOKEN
+1. GitHub → Settings → Developer settings → Personal access tokens → **Tokens (classic)** → Generate new token.
+2. Scopes: **`read:user`** and **`public_repo`** only (add `repo` only if you want private repos counted). Set an expiry you're comfortable with.
+3. In this repo: Settings → Secrets and variables → Actions → **New repository secret** → name `METRICS_TOKEN`, paste the token.
+4. Actions → **GitHub Metrics** → *Run workflow*. Check the run log; the two SVGs in `metrics/` replace the "generating…" placeholders.
 
-Create a public repository on GitHub whose name **exactly matches your username**:
+The token is used only for reading your stats; commits use the built-in `GITHUB_TOKEN`. Never put the token in README or YAML.
 
-```
-github.com/Varshith0105/Varshith0105
-```
-
-## 2. Push these files
-
-```bash
-git init
-git add .
-git commit -m "feat: cyber portfolio README"
-git branch -M main
-git remote add origin git@github.com:Varshith0105/Varshith0105.git
-git push -u origin main
-```
-
-## 3. Enable the snake workflow
-
-- Go to **Settings → Actions → General** and allow read/write permissions.
-- Trigger `.github/workflows/snake.yml` once from the Actions tab.
-- The snake SVGs are published on the `output` branch and consumed by the README via:
-  `https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/snake-dark.svg`
-
-## 4. Assets
-
-- `assets/svg/hero.svg` — hero banner (embeds your GitHub avatar via `https://github.com/Varshith0105.png`).
-- `assets/svg/project-*.svg` — per-project illustration cards.
-- All widgets (stats, streak, top languages, trophies) are pulled live from public services (`github-readme-stats`, `github-readme-streak-stats`, `github-profile-trophy`) — no build step required.
-
-## 5. Customize
-
-- Update project URLs and live-demo links inside `README.md`.
-- Regenerate any SVG in `assets/svg/` if you change the color palette (Cyber Blue `#2ec5ff` → Purple `#c084fc`).
+## Editing
+- Skills graphic: `assets/anim/skills-dark.svg` / `skills-light.svg` (pure SVG SMIL animation).
+- Change the metrics schedule in `metrics.yml` (`cron`).

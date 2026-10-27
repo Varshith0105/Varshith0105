@@ -143,50 +143,16 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 <div align="center">
 
-<table>
-<tr><td>
+I'm interested in connecting with people working on **AI/ML, Generative AI, full-stack engineering, and open source**.
 
-```bash
-visitor@github:~$ ./connect.sh
-[ OK ] Initializing secure contact channels...
-[ OK ] Waiting for your message.
-```
+<a href="https://www.linkedin.com/in/varshith-j/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://varshith-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:varshithjulakanti@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-</td></tr>
-</table>
-
-**Got an idea, collaboration, or a cool tech problem? Let's talk.**
-
-<a href="mailto:varshithjulakanti@gmail.com?subject=Hello%20Varshith&body=Hi%20Varshith%2C%0A%0A">
-  <img src="https://img.shields.io/badge/01%20%E2%80%94%20SEND%20EMAIL-39FF78?style=for-the-badge&logo=gmail&logoColor=07110A&labelColor=101914" alt="Send an email"/>
-</a>
-<a href="https://www.linkedin.com/in/varshith-j/">
-  <img src="https://img.shields.io/badge/02%20%E2%80%94%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-<a href="https://varshith-portfolio-omega.vercel.app/">
-  <img src="https://img.shields.io/badge/03%20%E2%80%94%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio"/>
-</a>
-
-<details>
-<summary><b>⌨️ Open the message terminal</b></summary>
-
-```text
-$ contact --help
-
-Available commands:
-  email        Open a pre-filled email to Varshith
-  linkedin     Connect professionally
-  portfolio    Explore projects and work
-
-$ contact email
-```
-
-**Quick message:** [Click here to compose an email](mailto:varshithjulakanti@gmail.com?subject=Let's%20connect&body=Hi%20Varshith%2C%0A%0AI%20wanted%20to%20connect%20about%3A%20)
-
-</details>
-
-<sub><code>STATUS: OPEN_TO_COLLABORATION</code> · AI/ML · Generative AI · Full-Stack · Open Source</sub>
+<br/><br/>
 
 *Build with curiosity. Validate carefully. Ship thoughtfully.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10051d,45:4c1d95,100:9333ea&height=120&section=footer" alt="Purple footer banner"/>
 
 </div>

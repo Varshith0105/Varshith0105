@@ -44,5 +44,5 @@
 <clipPath id="line27"><rect x="28" y="620" width="0" height="22"><animate attributeName="width" from="0" to="940" dur="0.672s" begin="11.34s;31.34s" fill="freeze"/></rect></clipPath><text x="28" y="638" clip-path="url(#line27)" class="prompt">┌──(varshith㉿github)-[~]</text>
 <clipPath id="line28"><rect x="28" y="642" width="0" height="22"><animate attributeName="width" from="0" to="940" dur="0.448s" begin="11.76s;31.76s" fill="freeze"/></rect></clipPath><text x="28" y="660" clip-path="url(#line28)" class="prompt">└─$ echo $STATUS</text>
 <clipPath id="line29"><rect x="28" y="664" width="0" height="22"><animate attributeName="width" from="0" to="940" dur="1.484s" begin="12.18s;32.18s" fill="freeze"/></rect></clipPath><text x="28" y="682" clip-path="url(#line29)" class="code">[ ONLINE ] Building the future, one commit at a time.</text>
-<rect x="28" y="684" width="10" height="17" fill="#39ff78"><animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/></rect>
+<rect x="28" y="700" width="10" height="17" fill="#39ff78"><animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/></rect>
 </svg>

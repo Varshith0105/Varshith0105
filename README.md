@@ -114,25 +114,33 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ## 🎓 Certifications & Credentials
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Professional Certifications
 
 - **AWS** — AWS Certified Solutions Architect – Associate
-- **ServiceNow** — Certified System Administrator
-- **Oracle** — Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-- **Oracle** — Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- **Oracle** — OCI 2025 Certified Generative AI Professional
 - **Oracle** — Generative AI Foundation & Professional
-- **AWS Academy** — Cloud Foundations & Cloud Architecting
 - **NVIDIA** — Fundamentals of Deep Learning
-- **MATLAB** — MATLAB Onramp
-
-### Job Simulations & Virtual Experience
-
 - **JPMorgan Chase & Co. (Forage)** — Software Engineering Job Simulation
+- **Adobe** — Adobe Certificate (listed under extracurriculars in my resume)
+
+</td>
+<td width="50%" valign="top">
+
+### Professional Certifications
+
+- **ServiceNow** — Certified System Administrator
+- **Oracle** — OCI 2025 Certified AI Foundations Associate
+- **AWS Academy** — Cloud Foundations & Cloud Architecting
+- **MATLAB** — MATLAB Onramp
 - **Tata Consultancy Services (Forage)** — GenAI-Powered Data Analytics Job Simulation
 
-### Additional Credential
-
-- **Adobe** — Adobe Certificate (listed under extracurriculars in my resume)
+</td>
+</tr>
+</table>
 
 ## 🤝 Connect With Me
 

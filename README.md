@@ -1,13 +1,17 @@
 <!--
   VARSHITH JULAKANTI — PROFILE README
-  Theme: AI command center / midnight neon
+  Theme: ECHO / midnight neon command center
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:050816,35:111827,70:312e81,100:0891b2&text=VARSHITH%20JULAKANTI&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=ENGINEERING%20INTELLIGENCE.%20BUILDING%20WHAT%E2%80%99S%20NEXT.&descSize=14&descAlignY=62&animation=fadeIn" alt="Varshith Julakanti — Engineering intelligence"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:050816,35:111827,70:312e81,100:0891b2&text=VARSHITH%20JULAKANTI&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=ENGINEERING%20INTELLIGENCE.%20BUILDING%20WHAT%E2%80%99S%20NEXT.&descSize=14&descAlignY=58&animation=fadeIn" alt="Varshith Julakanti — Engineering intelligence"/>
 
-<br/>
+<a href="https://readme-typing-svg.demolab.com/">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=760&lines=AI+%26+Full-Stack+Developer;Building+intelligent%2C+real-world+products;Exploring+Generative+AI+%26+Agentic+Systems;Prototype+boldly.+Validate+carefully.+Ship+thoughtfully." alt="Animated developer tagline"/>
+</a>
+
+<br/><br/>
 
 <a href="https://varshith-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0B1020?style=for-the-badge&logo=vercel&logoColor=67e8f9" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/varshith-j/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn"/></a>
@@ -16,6 +20,7 @@
 <br/><br/>
 
 <a href="https://github.com/Varshith0105"><img src="https://komarev.com/ghpvc/?username=Varshith0105&style=for-the-badge&color=0891b2&label=PROFILE+SCANS" alt="Profile views"/></a>
+<a href="https://github.com/Varshith0105?tab=followers"><img src="https://img.shields.io/github/followers/Varshith0105?style=for-the-badge&logo=github&label=FOLLOWERS&color=312e81" alt="GitHub followers"/></a>
 
 ### `AI × SOFTWARE × REAL-WORLD IMPACT`
 
@@ -29,18 +34,19 @@
 
 ```yaml
 name: Varshith Julakanti
+role: Computer Science Student | AI & ML
 focus:
   - Artificial Intelligence & Machine Learning
   - Generative AI and AI Agents
   - Full-Stack Engineering
-currently_interested_in:
+currently_exploring:
   - LLM applications, RAG, and intelligent workflows
   - Reliable ML deployment and real-world AI
   - Robotics and human-centered computing
 build_philosophy: "Prototype boldly. Validate carefully. Ship thoughtfully."
 ```
 
-I’m a Computer Science student specializing in **AI & ML** who enjoys working across the full stack — from model experiments and data pipelines to APIs and polished interfaces. I’m especially interested in AI that solves a clear problem, not just AI for the demo.
+I enjoy working across the full stack — from model experiments and data pipelines to APIs and polished interfaces. I’m especially interested in AI that solves a clear problem, not just AI for the demo.
 
 ---
 
@@ -59,6 +65,7 @@ I’m a Computer Science student specializing in **AI & ML** who enjoys working 
 <img src="https://img.shields.io/badge/Scikit--learn-f7931e?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 
 **WEB / BACKEND / INFRASTRUCTURE**
 
@@ -139,8 +146,12 @@ A resume and job-description matching project focused on making skills and exper
 
 <div align="center">
 
+<a href="https://github.com/Varshith0105">
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&bg_color=050816&title_color=67e8f9&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/Varshith0105">
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith0105&layout=donut-vertical&hide_border=true&langs_count=6&theme=transparent&bg_color=050816&title_color=67e8f9&text_color=cbd5e1" alt="Most used languages"/>
+</a>
 
 <br/>
 

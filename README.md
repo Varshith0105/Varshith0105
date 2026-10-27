@@ -81,62 +81,11 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ---
 
-## 📊 GitHub Activity Dashboard
+## 🐍 Snake Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution calendar generated from Varshith's GitHub activity"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake.svg" alt="GitHub contribution snake in a dark purple and violet theme"/>
 </p>
-
-<table width="100%" cellspacing="0" cellpadding="8">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### GitHub Statistics
-
-<a href="https://github.com/Varshith0105"><img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=00000000&title_color=22D3EE&text_color=E2E8F0&icon_color=22D3EE" width="100%" alt="GitHub statistics"/></a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### Contribution Streak
-
-<a href="https://github.com/Varshith0105"><img src="https://streak-stats.demolab.com?user=Varshith0105&hide_border=true&background=00000000&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" alt="GitHub contribution streak"/></a>
-
-</td>
-</tr>
-</table>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub profile trophies for Varshith Julakanti"/>
-  </a>
-</p>
-
-> Trophies are generated from publicly available GitHub activity and may take a little time to refresh.
-
-## 🐍 Green Contribution Snake
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake.svg" alt="GitHub contribution snake with a green checkerboard-inspired palette"/>
-</p>
-
-> This animation uses your real GitHub contribution history with a lime-green board palette and blue snake. GitHub Actions regenerates it every 12 hours.
-
-## 🎮 Play Snake Quest
-
-<p align="center">
-  <a href="https://varshith0105.github.io/Varshith0105/">
-    <img src="https://img.shields.io/badge/▶_PLAY_SNAKE_QUEST-Green_Arcade-65a30d?style=for-the-badge&logo=apple&logoColor=white" alt="Play Snake Quest"/>
-  </a>
-</p>
-
-Play a classic Snake game with a green checkerboard, blue snake, red apples, live score, and a saved personal best trophy counter. Use arrow keys or WASD; mobile touch controls are included.
-
-> GitHub README blocks interactive JavaScript, so the playable game opens as a separate GitHub Pages page. The Pages deployment workflow is included in this repository.
-
----
 
 ## 🎓 Certifications
 

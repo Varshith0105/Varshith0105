@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=700&color=C084FC&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Building+AI-powered+applications;Generative+AI+%7C+LLMs+%7C+AI+Agents;Learn+%E2%80%A2+Build+%E2%80%A2+Ship+%E2%80%A2+Improve" alt="Animated role descriptions"/>
 
-<img src="https://komarev.com/ghpvc/?username=Varshith0105&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Varshith0105&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square&base=10000" alt="Profile views"/>
 
 ### Building useful AI systems — from models to real-world products.
 

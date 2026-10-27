@@ -65,30 +65,118 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ## 🚀 Featured Projects
 
-<p align="center">
-<a href="https://github.com/Varshith0105?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/></a>
-</p>
+<p align="center">A selection of my AI/ML and full-stack projects — presented as compact cards.</p>
 
-<details>
-<summary><strong>✨ Open Featured Projects — 7 projects</strong></summary>
+<table width="100%" cellspacing="12" cellpadding="12">
+<tr>
+<td width="50%" valign="top" style="border:1px solid #30363d;border-radius:10px;">
+<a href="https://github.com/Varshith0105/KshetraIQ"><img src="https://images.yybcdn.com/sites/99500/99812/1778293828911564145659965440.jpg" width="100%" height="150" alt="KshetraIQ agriculture AI"/></a>
+
+### 🌾 KshetraIQ
+
+**Agricultural Intelligence**
+
+AI-powered farm decision support for crop recommendations, soil health, weather insights, and farmer-friendly reports.
+
+**Stack:** Python · FastAPI · Next.js · Scikit-learn
+
+[GitHub →](https://github.com/Varshith0105/KshetraIQ)
+</td>
+<td width="50%" valign="top" style="border:1px solid #30363d;border-radius:10px;">
+<a href="https://github.com/Varshith0105/your-personal-ai-chat"><img src="https://miro.medium.com/v2/1%2AMHmZBjzVpIpLMvrmYE59hg.png" width="100%" height="150" alt="VORTEX personal AI assistant"/></a>
+
+### 🤖 JARVIS / VORTEX
+
+**Personal AI Assistant**
+
+An assistant concept exploring voice interaction, memory, and task-oriented AI agents.
+
+**Stack:** Next.js · TypeScript · AI Agents
+
+[GitHub →](https://github.com/Varshith0105/your-personal-ai-chat)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="border:1px solid #30363d;border-radius:10px;">
+<a href="https://github.com/Varshith0105/Drug_Discovery_AI_CNN-Based"><img src="https://thesheffieldpress.com/uploads/source-1784077739076-a4ae2d3e-og.webp" width="100%" height="150" alt="Drug Discovery AI"/></a>
+
+### 🧬 Drug Discovery AI
+
+**Drug–Target Interaction Prediction**
+
+Deep-learning platform for predicting interactions from molecular and protein information.
+
+**Stack:** PyTorch · CNN · Transformers · CatBoost
+
+[GitHub →](https://github.com/Varshith0105/Drug_Discovery_AI_CNN-Based) · [GitHub →](https://github.com/Varshith0105/DrugDiscovery_Model)
+</td>
+<td width="50%" valign="top" style="border:1px solid #30363d;border-radius:10px;">
+<a href="https://github.com/Varshith0105/AI-RESUME-SCREENER"><img src="https://raw.githubusercontent.com/Varshith0105/AI-RESUME-SCREENER/main/docs/images/01-smart-resume-screener-dashboard.png" width="100%" height="150" alt="AI Resume Screener dashboard"/></a>
+
+### 📄 AI Resume Screener
+
+**AI-Assisted Resume Matching**
+
+Compares resume skills and experience against job descriptions to support candidate matching.
+
+**Stack:** Java · Spring Boot · React · Generative AI
+
+[GitHub →](https://github.com/Varshith0105/AI-RESUME-SCREENER)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="border:1px solid #30363d;border-radius:10px;">
+<a href="https://github.com/Varshith0105/StockPrice_Prediction_using_LSTM"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147557954/images/a30a18e-af55-2b05-c5e4-e5f6e6abd0f_LSTM.png" width="100%" height="150" alt="LSTM stock price forecast"/></a>
+
+### 📈 Stock Price Prediction
+
+**LSTM Forecasting**
+
+Learns patterns from historical stock-price data to produce time-series forecasts.
+
+**Stack:** Python · LSTM · TensorFlow/Keras
+
+[GitHub →](https://github.com/Varshith0105/StockPrice_Prediction_using_LSTM) · [GitHub →](https://github.com/Varshith0105/stock-predictor-pro)
+</td>
+<td width="50%" valign="top" style="border:1px solid #30363d;border-radius:10px;">
+<a href="https://github.com/Varshith0105/EDUSPHERE-LMS"><img src="https://cdn.dribbble.com/userupload/42830623/file/original-54254f25b97c261c4160c1c5576c7dbf.png?resize=1600x1200" width="100%" height="150" alt="EduSphere learning dashboard"/></a>
+
+### 🎓 EduSphere LMS
+
+**Learning Management System**
+
+A platform concept for courses, assessments, student progress, and instructor workflows.
+
+**Stack:** React · TypeScript · Java 21 · Spring Boot · SQL
+
+[GitHub →](https://github.com/Varshith0105/EDUSPHERE-LMS)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="border:1px solid #30363d;border-radius:10px;">
+<a href="https://github.com/Varshith0105/Skin-disease-Prediction"><img src="https://substackcdn.com/image/fetch/%24s_%218Tcg%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep/https%3A/substack-post-media.s3.amazonaws.com/public/images/7d124583-942e-47ac-95e1-29432e29956b_1536x1024.png" width="100%" height="150" alt="Skin disease prediction AI"/></a>
+
+### 🩺 Skin Disease Prediction
+
+**SmartSkinAI**
+
+Deep-learning image classification project for skin-condition screening.
+
+**Stack:** Python · TensorFlow · Keras · Flask · Firebase
+
+[GitHub →](https://github.com/Varshith0105/Skin-disease-Prediction) · [Live Demo →](https://07saroj.github.io/SmartSkinAI/)
+</td>
+<td width="50%" valign="top" align="center">
+### 💡 More Projects
+
+Explore the rest of my repositories and experiments.
 
 <br/>
 
-| Project | Overview | Tech Stack | Links |
-|---|---|---|---|
-| 🌾 **KshetraIQ** | AI-powered agricultural intelligence for crop recommendations, soil health, weather insights, and farmer-friendly reports. | Python · FastAPI · Next.js · Scikit-learn | [GitHub](https://github.com/Varshith0105/KshetraIQ) |
-| 🤖 **VORTEX — Personal AI Assistant** | Voice-first assistant concept with contextual memory and task-oriented agents. | Next.js · TypeScript · AI Agents | [GitHub](https://github.com/Varshith0105/your-personal-ai-chat) |
-| 🧬 **Drug Discovery AI** | Deep-learning platform for predicting drug–target interactions from molecular and protein information. | PyTorch · CNN · Transformers · CatBoost | [GitHub](https://github.com/Varshith0105/Drug_Discovery_AI_CNN-Based) · [GitHub](https://github.com/Varshith0105/DrugDiscovery_Model) |
-| 📄 **AI Resume Screener** | Matches resume skills and experience against job descriptions and highlights skill gaps. | Java · Spring Boot · React · Generative AI | [GitHub](https://github.com/Varshith0105/AI-RESUME-SCREENER) |
-| 📈 **Stock Price Prediction** | LSTM time-series model trained to learn patterns in historical stock-price data and produce forecasts. | Python · LSTM · TensorFlow/Keras | [GitHub](https://github.com/Varshith0105/StockPrice_Prediction_using_LSTM) · [GitHub](https://github.com/Varshith0105/stock-predictor-pro) |
-| 🎓 **EduSphere LMS** | Learning management system for courses, assessments, student progress, and instructor workflows. | React · TypeScript · Java 21 · Spring Boot · SQL | [GitHub](https://github.com/Varshith0105/EDUSPHERE-LMS) |
-| 🩺 **Skin Disease Prediction — SmartSkinAI** | Deep-learning image classification project for skin-condition screening. | Python · TensorFlow · Keras · Flask · Firebase | [GitHub](https://github.com/Varshith0105/Skin-disease-Prediction) · [Live Demo](https://07saroj.github.io/SmartSkinAI/) |
-
-</details>
-
-<p align="center">
-<sub>Want to explore more? <a href="https://github.com/Varshith0105?tab=repositories">Browse all repositories on GitHub</a>.</sub>
-</p>
+<a href="https://github.com/Varshith0105?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/></a>
+</td>
+</tr>
+</table>
 
 ---
 

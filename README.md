@@ -116,15 +116,13 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 > Trophies are generated from publicly available GitHub activity and may take a little time to refresh.
 
-## 🐍 Contribution Snake
+## 🐍 Green Contribution Snake
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake.svg"/>
-  <img width="100%" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake-dark.svg" alt="GitHub contribution snake animation"/>
-</picture>
-</div>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake.svg" alt="GitHub contribution snake with a green checkerboard-inspired palette"/>
+</p>
+
+> This animation uses your real GitHub contribution history with a lime-green board palette and blue snake. GitHub Actions regenerates it every 12 hours.
 
 ---
 

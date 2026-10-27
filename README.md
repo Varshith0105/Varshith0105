@@ -112,7 +112,15 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ### GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=2&column=4" width="100%" alt="GitHub profile trophies and achievements"/>
+<a href="https://github.com/Varshith0105?tab=achievements"><img src="https://img.shields.io/badge/GitHub-Achievements-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub achievements"/></a>
+
+<br/><br/>
+
+<a href="https://github.com/Varshith0105?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+
+<br/><br/>
+
+<a href="https://github.com/Varshith0105?tab=stars"><img src="https://img.shields.io/badge/Starred_Projects-View-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="View starred projects"/></a>
 
 </td>
 </tr>
@@ -121,7 +129,7 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ### Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshith0105&bg_color=0D0B16&color=E2E8F0&line=22D3EE&point=22D3EE&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<a href="https://github.com/Varshith0105?tab=overview"><img src="https://ghchart.rshah.org/22D3EE/Varshith0105" width="100%" alt="GitHub contribution calendar"/></a>
 
 </td>
 </tr>

@@ -1,7 +1,7 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
 <a href="https://varshith-portfolio-omega.vercel.app/"><img src="assets/varshith-hero.svg" width="100%" alt="Varshith Julakanti — AI/ML, Generative AI and Full-Stack Engineering"/></a>
 
-<p align="center"><img src="assets/varshith-avatar.png" width="280" alt="Varshith Julakanti — developer portrait"/></p>
+<p align="center"><img src="assets/varshith-portrait.jpg" width="280" alt="Varshith Julakanti — developer portrait"/></p>
 
 <p align="center">
   <a href="https://varshith-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-8B5CF6?style=for-the-badge&labelColor=0B1020&logo=vercel&logoColor=BFDBFE" alt="Portfolio"/></a>

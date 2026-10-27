@@ -49,7 +49,6 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ## 🛠️ Technical Skills
 
-*Skills consolidated from my resumes, with repeated technologies listed only once.*
 
 | **Category** | **Skills & Technologies** |
 |:---|:---|

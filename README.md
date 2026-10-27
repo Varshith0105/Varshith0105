@@ -112,12 +112,27 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
   <img width="100%" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake.svg?v=reference-green-magenta-3" alt="GitHub contribution snake with a Charcoal checkerboard with sparse GitHub-green contribution cells and a magenta snake"/>
 </p>
 
-## 🎓 Certifications
+## 🎓 Certifications & Credentials
 
+### Professional Certifications
+
+- **AWS** — AWS Certified Solutions Architect – Associate
+- **ServiceNow** — Certified System Administrator
+- **Oracle** — Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- **Oracle** — Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 - **Oracle** — Generative AI Foundation & Professional
-- **AWS Academy** — Cloud Foundations & Architecting
+- **AWS Academy** — Cloud Foundations & Cloud Architecting
 - **NVIDIA** — Fundamentals of Deep Learning
 - **MATLAB** — MATLAB Onramp
+
+### Job Simulations & Virtual Experience
+
+- **JPMorgan Chase & Co. (Forage)** — Software Engineering Job Simulation
+- **Tata Consultancy Services (Forage)** — GenAI-Powered Data Analytics Job Simulation
+
+### Additional Credential
+
+- **Adobe** — Adobe Certificate (listed under extracurriculars in my resume)
 
 ## 🤝 Connect With Me
 

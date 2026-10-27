@@ -144,7 +144,7 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 <div align="center">
 
 <a href="https://varshith0105.github.io/Varshith0105/contact/">
-  <img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/assets/connect-with-me-preview.svg?v=terminal-clean-20261028" width="100%" alt="Dark green hacker-style message form with name, optional email, message box and Send Message button. Click to open the interactive form."/>
+  <img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/assets/connect-with-me-terminal.svg" width="100%" alt="Dark green hacker-style message form with name, optional email, message box and Send Message button. Click to open the interactive form."/>
 </a>
 
 **Want to collaborate, discuss an AI/ML idea, or just say hello?**  

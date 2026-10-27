@@ -1,11 +1,13 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
 <a href="https://varshith-portfolio-omega.vercel.app/"><img src="assets/varshith-hero.svg" width="100%" alt="Varshith Julakanti — AI/ML, Generative AI and Full-Stack Engineering"/></a>
 
+<p align="center"><img src="assets/varshith-avatar.png" width="280" alt="Varshith Julakanti — developer portrait"/></p>
+
 <p align="center">
-  <a href="https://varshith-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-2563EB?style=for-the-badge&labelColor=0B1020&logo=vercel&logoColor=BFDBFE" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/varshith-j/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&labelColor=0B1020&logo=linkedin&logoColor=BFDBFE" alt="LinkedIn"/></a>
-  <a href="https://github.com/Varshith0105?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=BFDBFE" alt="Projects"/></a>
-  <a href="mailto:varshithjulakanti@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-2563EB?style=for-the-badge&labelColor=0B1020&logo=gmail&logoColor=BFDBFE" alt="Email"/></a>
+  <a href="https://varshith-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-8B5CF6?style=for-the-badge&labelColor=0B1020&logo=vercel&logoColor=BFDBFE" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/varshith-j/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&labelColor=0B1020&logo=linkedin&logoColor=BFDBFE" alt="LinkedIn"/></a>
+  <a href="https://github.com/Varshith0105?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-8B5CF6?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=BFDBFE" alt="Projects"/></a>
+  <a href="mailto:varshithjulakanti@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-8B5CF6?style=for-the-badge&labelColor=0B1020&logo=gmail&logoColor=BFDBFE" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -88,11 +90,11 @@ I’m **Varshith Julakanti**, a Computer Science student specializing in **Artif
 
 <h3 align="center">📊 Stats & Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&bg_color=0B1020&title_color=93C5FD&text_color=CBD5E1&icon_color=60A5FA&custom_title=GitHub%20at%20a%20glance" height="175" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith0105&layout=compact&hide_border=true&theme=transparent&bg_color=0B1020&title_color=93C5FD&text_color=CBD5E1" height="175" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&bg_color=0B1020&title_color=D8B4FE&text_color=CBD5E1&icon_color=C084FC&custom_title=GitHub%20at%20a%20glance" height="175" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith0105&layout=compact&hide_border=true&theme=transparent&bg_color=0B1020&title_color=D8B4FE&text_color=CBD5E1" height="175" alt="Top languages"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Varshith0105&hide_border=true&background=0B1020&ring=60A5FA&fire=22D3EE&currStreakLabel=93C5FD&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" width="80%" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Varshith0105&hide_border=true&background=0B1020&ring=C084FC&fire=E879F9&currStreakLabel=D8B4FE&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" width="80%" alt="GitHub contribution streak"/>
 </p>
 
 <h3 align="center">🐍 Contribution Snake</h3>
@@ -106,23 +108,23 @@ I’m **Varshith Julakanti**, a Computer Science student specializing in **Artif
 
 <h3 align="center">📈 Contribution Graph</h3>
 <p align="center">
-  <img src="https://activity-graph-kappa.vercel.app/graph?username=Varshith0105&bg_color=0B1020&color=CBD5E1&line=60A5FA&point=22D3EE&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+  <img src="https://activity-graph-kappa.vercel.app/graph?username=Varshith0105&bg_color=0B1020&color=CBD5E1&line=C084FC&point=E879F9&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 </p>
 
 <img src="assets/title-certifications.svg" width="100%" alt="06 — Certifications and foundations"/>
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-GenAI_Foundation_%26_Professional-2563EB?style=for-the-badge&labelColor=0B1020" alt="Oracle GenAI certifications"/>
-  <img src="https://img.shields.io/badge/AWS-Academy_Cloud_Foundations_%26_Architecting-2563EB?style=for-the-badge&labelColor=0B1020" alt="AWS Academy certifications"/>
-  <img src="https://img.shields.io/badge/NVIDIA-Fundamentals_of_Deep_Learning-2563EB?style=for-the-badge&labelColor=0B1020" alt="NVIDIA deep learning certification"/>
-  <img src="https://img.shields.io/badge/MATLAB-Onramp-2563EB?style=for-the-badge&labelColor=0B1020" alt="MATLAB Onramp"/>
+  <img src="https://img.shields.io/badge/Oracle-GenAI_Foundation_%26_Professional-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="Oracle GenAI certifications"/>
+  <img src="https://img.shields.io/badge/AWS-Academy_Cloud_Foundations_%26_Architecting-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="AWS Academy certifications"/>
+  <img src="https://img.shields.io/badge/NVIDIA-Fundamentals_of_Deep_Learning-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="NVIDIA deep learning certification"/>
+  <img src="https://img.shields.io/badge/MATLAB-Onramp-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="MATLAB Onramp"/>
 </p>
 
 <img src="assets/title-connect.svg" width="100%" alt="07 — Connect"/>
 
 <p align="center">Have an interesting AI idea, open-source project, or engineering problem? Let's connect.</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/varshith-j/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&labelColor=0B1020&logo=linkedin&logoColor=BFDBFE" alt="LinkedIn"/></a>
-  <a href="https://varshith-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View_my_work-2563EB?style=for-the-badge&labelColor=0B1020&logo=vercel&logoColor=BFDBFE" alt="Portfolio"/></a>
-  <a href="mailto:varshithjulakanti@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-2563EB?style=for-the-badge&labelColor=0B1020&logo=gmail&logoColor=BFDBFE" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/varshith-j/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&labelColor=0B1020&logo=linkedin&logoColor=BFDBFE" alt="LinkedIn"/></a>
+  <a href="https://varshith-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View_my_work-8B5CF6?style=for-the-badge&labelColor=0B1020&logo=vercel&logoColor=BFDBFE" alt="Portfolio"/></a>
+  <a href="mailto:varshithjulakanti@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-8B5CF6?style=for-the-badge&labelColor=0B1020&logo=gmail&logoColor=BFDBFE" alt="Email"/></a>
 </p>
 <a href="https://varshith-portfolio-omega.vercel.app/"><img src="assets/footer-signature.svg" width="100%" alt="Varshith Julakanti — Build with curiosity. Ship with purpose."/></a>

@@ -20,7 +20,7 @@
 
 ## 😎 I'M VARSHITH!
 
-<img align="right" width="390" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2treGo2MWlsMm41bTYzZjJqNWs1dWdtcmNiaHRzeTdrMm9laGl6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ff54BctkWA5ry/giphy.gif" alt="The same celebrating owl with confetti as the reference profile"/>
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="The same celebrating owl with confetti as the reference profile"/>
 
 *Digital Craftsman (AI/ML Developer / Programmer)*
 

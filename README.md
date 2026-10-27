@@ -49,10 +49,6 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ## 🛠️ Technical Skills
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/assets/technical-skills-ecosystem.svg" alt="Technical skills ecosystem featuring programming languages, AI and ML, full-stack development, cloud, and DevOps"/>
-</p>
-
 | **Category** | **Skills & Technologies** |
 |:---|:---|
 | **Programming Languages** | Python, Java, C++, SQL |

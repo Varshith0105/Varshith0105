@@ -93,7 +93,7 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ### GitHub Statistics
 
-<a href="https://github.com/Varshith0105"><img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=0D1117,241044&title_color=D8B4FE&text_color=E9D5FF&icon_color=C084FC" width="100%" alt="GitHub statistics"/></a>
+<a href="https://github.com/Varshith0105"><img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=default&theme=transparent&bg_color=00000000&title_color=C084FC&text_color=E2E8F0&icon_color=C084FC" width="100%" alt="GitHub statistics"/></a>
 
 </td>
 <td width="50%" align="center" valign="top">

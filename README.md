@@ -81,6 +81,31 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ---
 
+## 📊 GitHub Activity Dashboard
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D city-style GitHub contribution activity graph"/>
+</p>
+
+<table width="100%" cellspacing="0" cellpadding="8">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### GitHub Statistics
+
+<a href="https://github.com/Varshith0105"><img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=00000000&title_color=C084FC&text_color=E2E8F0&icon_color=C084FC" width="100%" alt="GitHub statistics"/></a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### Contribution Streak
+
+<a href="https://github.com/Varshith0105"><img src="https://streak-stats.demolab.com?user=Varshith0105&hide_border=true&background=00000000&ring=C084FC&fire=C084FC&currStreakLabel=C084FC&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" alt="GitHub contribution streak"/></a>
+
+</td>
+</tr>
+</table>
+
 ## 🐍 Snake Contribution
 
 <p align="center">

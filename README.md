@@ -148,9 +148,9 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 </a>
 
 **Want to collaborate, discuss an AI/ML idea, or just say hello?**  
-Click the message box above, enter your details, and send your message.
+The terminal image above is a static preview — GitHub README images cannot accept typing. Click the button below to open the interactive form, then enter your name, optional email, and message.
 
-<a href="https://varshith0105.github.io/Varshith0105/contact/"><img src="https://img.shields.io/badge/OPEN%20MESSAGE%20BOX-39FF78?style=for-the-badge&logo=terminal&logoColor=061008&labelColor=101914" alt="Open message box"/></a>
+<a href="https://varshith0105.github.io/Varshith0105/contact/"><img src="https://img.shields.io/badge/OPEN%20INTERACTIVE%20CONTACT%20FORM-39FF78?style=for-the-badge&logo=terminal&logoColor=061008&labelColor=101914" alt="Open message box"/></a>
 
 <sub><code>STATUS: CONTACT CHANNEL READY</code> · AI/ML · Generative AI · Full-Stack · Open Source</sub>
 

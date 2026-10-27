@@ -70,7 +70,7 @@ Explore my main projects below. Each project has its own themed 3D-style illustr
 <table width="100%" border="0" cellspacing="0" cellpadding="12">
 <tr>
 <td width="36%" valign="middle" align="center">
-<a href="https://github.com/Varshith0105/KshetraIQ"><img src="assets/project-kshetraiq-3d.svg" width="100%" alt="3D-style illustration for KshetraIQ agricultural AI"/></a>
+<a href="https://github.com/Varshith0105/KshetraIQ"><img src="https://arccarticles.s3.amazonaws.com/Blog/Featured-image-6089603e9087340b9bdcbbb1-1769410364792-0.png" width="100%" alt="Farmer using AI-powered precision agriculture tools"/></a>
 </td>
 <td valign="middle">
 
@@ -87,7 +87,7 @@ AI-powered farm decision support for crop recommendations, soil health, weather 
 <tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="36%" valign="middle" align="center">
-<a href="https://github.com/Varshith0105/your-personal-ai-chat"><img src="assets/project-vortex-3d.svg" width="100%" alt="3D-style illustration for VORTEX personal AI assistant"/></a>
+<a href="https://github.com/Varshith0105/your-personal-ai-chat"><img src="https://aiworldservice.com/uploads/products/ai_chatbot.png" width="100%" alt="Futuristic AI assistant interface"/></a>
 </td>
 <td valign="middle">
 
@@ -104,7 +104,7 @@ An AI assistant project exploring voice-first interaction, contextual memory, an
 <tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="36%" valign="middle" align="center">
-<a href="https://github.com/Varshith0105/Drug_Discovery_AI_CNN-Based"><img src="assets/project-drug-discovery-3d.svg" width="100%" alt="3D molecular illustration for Drug Discovery AI"/></a>
+<a href="https://github.com/Varshith0105/Drug_Discovery_AI_CNN-Based"><img src="https://news.thinkverse-ai.com/static/uploads/ai_gemini_20260207_160822.jpg" width="100%" alt="AI drug discovery protein and neural network visualization"/></a>
 </td>
 <td valign="middle">
 
@@ -121,7 +121,7 @@ Deep-learning platform for predicting drug–target interactions using molecular
 <tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="36%" valign="middle" align="center">
-<a href="https://github.com/Varshith0105/AI-RESUME-SCREENER"><img src="assets/project-resume-3d.svg" width="100%" alt="3D-style illustration for AI Resume Screener"/></a>
+<a href="https://github.com/Varshith0105/AI-RESUME-SCREENER"><img src="https://resumeworld.app/og-image.jpg" width="100%" alt="AI resume screening platform dashboard"/></a>
 </td>
 <td valign="middle">
 
@@ -138,7 +138,7 @@ Compares resume skills and experience with job descriptions to support candidate
 <tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="36%" valign="middle" align="center">
-<a href="https://github.com/Varshith0105/StockPrice_Prediction_using_LSTM"><img src="assets/project-stock-3d.svg" width="100%" alt="3D-style stock chart illustration for Stock Price Prediction"/></a>
+<a href="https://github.com/Varshith0105/StockPrice_Prediction_using_LSTM"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147557954/images/a30a18e-af55-2b05-c5e4-e5f6e6abd0f_LSTM.png" width="100%" alt="Actual versus predicted stock prices using an LSTM model"/></a>
 </td>
 <td valign="middle">
 
@@ -155,7 +155,7 @@ An LSTM-based time-series project that learns patterns from historical stock-pri
 <tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="36%" valign="middle" align="center">
-<a href="https://github.com/Varshith0105/EDUSPHERE-LMS"><img src="assets/project-edusphere-3d.svg" width="100%" alt="3D-style illustration for EduSphere LMS"/></a>
+<a href="https://github.com/Varshith0105/EDUSPHERE-LMS"><img src="https://cdn.dribbble.com/userupload/11465111/file/original-40f080336c20c0a3db1021f480ca37ba.png?crop=0x0-6402x4801&resize=1600x1200" width="100%" alt="E-learning dashboard with courses and progress analytics"/></a>
 </td>
 <td valign="middle">
 
@@ -172,7 +172,7 @@ A full-stack learning management system concept for courses, assessments, studen
 <tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="36%" valign="middle" align="center">
-<a href="https://github.com/Varshith0105/Skin-disease-Prediction"><img src="assets/project-skin-3d.svg" width="100%" alt="3D-style illustration for skin disease prediction"/></a>
+<a href="https://github.com/Varshith0105/Skin-disease-Prediction"><img src="https://www.meduniwien.ac.at/web/fileadmin/_processed_/7/c/csm_a926EqXoTAi0qM5gGdM6_Unbenannt-1_4e59fbf5b5.jpg" width="100%" alt="AI skin lesion analysis pipeline"/></a>
 </td>
 <td valign="middle">
 

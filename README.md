@@ -32,7 +32,7 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 - 💜 Open to AI/ML, GenAI, and open-source collaboration.
 - 💻 [Portfolio](https://varshith-portfolio-omega.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/varshith-j/) · [Email](mailto:varshithjulakanti@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Varshith0105&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square&base=10000)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Varshith0105&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square&base=10000" alt="Profile Views" /></p>
 
 
 ## ⚡ What I'm Building & Learning

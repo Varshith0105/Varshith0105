@@ -144,13 +144,13 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 <div align="center">
 
 <a href="https://varshith0105.github.io/Varshith0105/contact/">
-  <img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/assets/contact-bot.svg" width="150" alt="Animated green robot contact assistant"/>
+  <img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/assets/connect-with-me-preview.svg" width="100%" alt="Contact panel on the left and a waving green robot on the right. Click to open the message form."/>
 </a>
 
-### 🤖 Need a human? Talk to the bot first.
+### 💬 Have something to say? The bot is listening.
 
-**Got an idea, collaboration, opportunity, or a cool tech problem?**  
-The little bot will open a message form for you — add your name, email, topic, and message.
+**Write your name, email, and message in the contact terminal.**  
+Click the panel above to open the full form.
 
 <a href="https://varshith0105.github.io/Varshith0105/contact/"><img src="https://img.shields.io/badge/OPEN%20MESSAGE%20BOX-39FF78?style=for-the-badge&logo=probot&logoColor=061008&labelColor=101914" alt="Open message box"/></a>
 

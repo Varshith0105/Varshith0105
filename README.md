@@ -110,9 +110,10 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 </td>
 <td width="50%" valign="top" align="center">
 
-### GitHub Achievements
+### GitHub Quick Links
 
-<a href="https://github.com/Varshith0105?tab=achievements"><img src="https://img.shields.io/badge/GitHub-Achievements-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub achievements"/></a>
+<!-- These are navigation links, not fabricated achievement counts. -->
+<a href="https://github.com/Varshith0105?tab=achievements"><img src="https://img.shields.io/badge/GitHub-View_Achievements-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="Open GitHub achievements"/></a>
 
 <br/><br/>
 
@@ -129,7 +130,9 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ### Contribution Activity
 
-<a href="https://github.com/Varshith0105?tab=overview"><img src="https://ghchart.rshah.org/22D3EE/Varshith0105" width="100%" alt="GitHub contribution calendar"/></a>
+<a href="https://github.com/Varshith0105?tab=overview"><img src="https://ghchart.rshah.org/22D3EE/Varshith0105" width="100%" alt="Contribution calendar for Varshith0105"/></a>
+
+<sub>If the external calendar image is temporarily unavailable, view the live contribution graph on <a href="https://github.com/Varshith0105?tab=overview">GitHub's profile overview</a>.</sub>
 
 </td>
 </tr>

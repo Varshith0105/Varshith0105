@@ -49,17 +49,18 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ## 🛠️ Technical Skills
 
-| **Category** | **Skills** |
+*Skills consolidated from my resumes, with repeated technologies listed only once.*
+
+| **Category** | **Skills & Technologies** |
 |:---|:---|
-| **Programming Languages** | Python (Pandas, NumPy, Matplotlib, TensorFlow), Java, C, C++, SQL |
-| **AI / ML** | Machine Learning Models, Large Language Models (LLMs), Generative AI, Prompt Engineering |
-| **Web Technologies** | HTML, CSS, React.js, Next.js, TypeScript |
-| **Databases** | SQL, MySQL, PostgreSQL |
-| **Core Concepts** | Data Structures & Algorithms, Object-Oriented Programming (OOP), SDLC, Operating Systems, Computer Networking, Agile, User-Centered Design |
-| **Cloud Technologies** | AWS (EC2, VPC, S3, RDS), Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI) |
-| **Tools & Platforms** | Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Streamlit, Vercel |
-| **AI Tools** | ChatGPT, Firebase Studio, Gemini AI Studio, GitHub Copilot, Claude AI, Perplexity AI |
-| **Productivity Tools** | MS Excel, Word, PowerPoint |
+| **Programming Languages** | Python, Java, C++, SQL |
+| **Generative AI & LLM Engineering** | Large Language Models (LLMs), Generative AI, Prompt Engineering, Fine-Tuning, Retrieval-Augmented Generation (RAG), AI Agents, Agentic AI, LangChain, LangGraph, OpenAI API |
+| **Machine Learning & Deep Learning** | Machine Learning, Deep Learning, Natural Language Processing (NLP), CNN, LSTM, Transformers, Transfer Learning, Explainable AI (XAI), Feature Engineering, Hyperparameter Tuning, Model Evaluation (Precision, Recall, F1-Score, ROC-AUC, ROUGE, BLEU) |
+| **ML Frameworks & Data Science** | PyTorch, TensorFlow, Keras, Scikit-learn, NumPy, Pandas, OpenCV, Matplotlib, Seaborn, Exploratory Data Analysis (EDA), Statistical Analysis, Predictive Modeling, Data Visualization |
+| **Vector Search & Knowledge Retrieval** | Embeddings, Semantic Search, Vector Databases, FAISS, ChromaDB, Pinecone |
+| **Backend & API Development** | FastAPI, Flask, REST APIs, Microservices, Model Deployment |
+| **Cloud, DevOps & Developer Tools** | AWS, Oracle Cloud Infrastructure (OCI), Google Cloud Platform (GCP), Docker, Git, GitHub, GitHub Actions, CI/CD Pipelines, Linux, Bash, VS Code, Google Colab, Jupyter Notebook, Streamlit |
+| **Core Computer Science** | Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, System Design, Software Engineering, Agile/Scrum |
 
 ---
 

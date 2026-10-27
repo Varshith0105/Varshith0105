@@ -85,7 +85,7 @@ I’m **Varshith Julakanti**, a Computer Science student specializing in **Artif
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" width="100%" alt="GitHub profile trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" width="100%" alt="GitHub profile trophies"/>
 </p>
 
 <h3 align="center">📊 Stats & Languages</h3>
@@ -108,7 +108,7 @@ I’m **Varshith Julakanti**, a Computer Science student specializing in **Artif
 
 <h3 align="center">📈 Contribution Graph</h3>
 <p align="center">
-  <img src="https://activity-graph-kappa.vercel.app/graph?username=Varshith0105&bg_color=0B1020&color=CBD5E1&line=C084FC&point=E879F9&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshith0105&bg_color=0B1020&color=CBD5E1&line=C084FC&point=E879F9&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 </p>
 
 <img src="assets/title-certifications.svg" width="100%" alt="06 — Certifications and foundations"/>

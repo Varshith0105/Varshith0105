@@ -81,69 +81,53 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ---
 
-## 📊 Analytics & Activity
+## 📊 GitHub Stats
 
 <table width="100%" cellspacing="0" cellpadding="10">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="middle" align="center">
 
-### GitHub Statistics
+### GitHub Stats
 
-<a href="https://github.com/Varshith0105"><img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=0D0B16&title_color=22D3EE&text_color=E2E8F0&icon_color=22D3EE" width="100%" alt="Varshith's GitHub statistics"/></a>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=Varshith0105&hide_border=true&background=0D0B16&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" alt="GitHub contribution streak"/>
+<a href="https://github.com/Varshith0105"><img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=github&theme=radical&bg_color=190D20&title_color=F472B6&text_color=FFFFFF&icon_color=FBBF24" width="100%" alt="Varshith's GitHub statistics"/></a>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="middle" align="center">
 
-### Most Used Languages
+### Streak Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith0105&layout=compact&hide_border=true&theme=transparent&bg_color=0D0B16&title_color=22D3EE&text_color=E2E8F0" width="100%" alt="Most used programming languages on GitHub"/>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### GitHub Quick Links
-
-<!-- These are navigation links, not fabricated achievement counts. -->
-<a href="https://github.com/Varshith0105?tab=achievements"><img src="https://img.shields.io/badge/GitHub-View_Achievements-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="Open GitHub achievements"/></a>
-
-<br/><br/>
-
-<a href="https://github.com/Varshith0105?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
-
-<br/><br/>
-
-<a href="https://github.com/Varshith0105?tab=stars"><img src="https://img.shields.io/badge/Starred_Projects-View-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="View starred projects"/></a>
+<a href="https://github.com/Varshith0105"><img src="https://streak-stats.demolab.com?user=Varshith0105&hide_border=true&background=190D20&ring=F472B6&fire=FBBF24&currStreakLabel=F472B6&sideLabels=FFFFFF&dates=D1D5DB&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" alt="Varshith's GitHub contribution streak"/></a>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
-### Contribution Activity
+### Latest Project
 
-<a href="https://github.com/Varshith0105?tab=overview"><img src="https://ghchart.rshah.org/22D3EE/Varshith0105" width="100%" alt="Contribution calendar for Varshith0105"/></a>
+<a href="https://github.com/Varshith0105/KshetraIQ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Varshith0105&repo=KshetraIQ&hide_border=true&theme=radical&bg_color=190D20&title_color=F472B6&text_color=FFFFFF&icon_color=FBBF24" width="100%" alt="KshetraIQ repository card"/></a>
 
-<sub>If the external calendar image is temporarily unavailable, view the live contribution graph on <a href="https://github.com/Varshith0105?tab=overview">GitHub's profile overview</a>.</sub>
+AI-powered agricultural intelligence platform for crop recommendations, soil and weather insights, and farmer-friendly reports.
 
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<td width="50%" valign="top" align="center">
 
-<a href="https://github.com/Varshith0105?tab=repositories">Explore repositories</a> · <a href="https://github.com/Varshith0105?tab=overview&from=2026-01-01&to=2026-12-31">View contribution overview</a>
+### Top Contributions
+
+<a href="https://github.com/Varshith0105/Drug_Discovery_AI_CNN-Based"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Varshith0105&repo=Drug_Discovery_AI_CNN-Based&hide_border=true&theme=radical&bg_color=190D20&title_color=F472B6&text_color=FFFFFF&icon_color=FBBF24" width="100%" alt="Drug Discovery AI repository card"/></a>
+
+<a href="https://github.com/Varshith0105/your-personal-ai-chat"><img src="https://img.shields.io/badge/Personal_AI_Assistant-View_Repository-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="Personal AI assistant repository"/></a>
+
+<a href="https://github.com/Varshith0105/EDUSPHERE-LMS"><img src="https://img.shields.io/badge/EduSphere_LMS-View_Repository-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="EduSphere LMS repository"/></a>
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+<a href="https://github.com/Varshith0105?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/></a>
+<a href="https://github.com/Varshith0105?tab=overview"><img src="https://img.shields.io/badge/Contribution_Overview-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="View contribution overview"/></a>
+</p>
 
 ## 🐍 Contribution Snake
 

@@ -47,27 +47,19 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-<div align="center">
-
-**LANGUAGES**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css&theme=dark" alt="Python, Java, TypeScript, JavaScript, HTML, CSS"/>
-
-**AI / MACHINE LEARNING**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="PyTorch, TensorFlow, OpenCV"/>
-<br/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-
-**WEB / BACKEND / DATABASE / CLOUD**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,fastapi,postgres,mysql,docker,aws,git,github,vscode&theme=dark" alt="React, Next.js, Node.js, Spring Boot, FastAPI, PostgreSQL, MySQL, Docker, AWS, Git, GitHub, VS Code"/>
-
-</div>
+| **Category** | **Skills** |
+|:---|:---|
+| **Programming Languages** | Python (Pandas, NumPy, Matplotlib, TensorFlow), Java, C, C++, SQL |
+| **AI / ML** | Machine Learning Models, Large Language Models (LLMs), Generative AI, Prompt Engineering |
+| **Web Technologies** | HTML, CSS, React.js, Next.js, TypeScript |
+| **Databases** | SQL, MySQL, PostgreSQL |
+| **Core Concepts** | Data Structures & Algorithms, Object-Oriented Programming (OOP), SDLC, Operating Systems, Computer Networking, Agile, User-Centered Design |
+| **Cloud Technologies** | AWS (EC2, VPC, S3, RDS), Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI) |
+| **Tools & Platforms** | Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Streamlit, Vercel |
+| **AI Tools** | ChatGPT, Firebase Studio, Gemini AI Studio, GitHub Copilot, Claude AI, Perplexity AI |
+| **Productivity Tools** | MS Excel, Word, PowerPoint |
 
 ---
 

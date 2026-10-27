@@ -124,6 +124,18 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 > This animation uses your real GitHub contribution history with a lime-green board palette and blue snake. GitHub Actions regenerates it every 12 hours.
 
+## 🎮 Play Snake Quest
+
+<p align="center">
+  <a href="https://varshith0105.github.io/Varshith0105/">
+    <img src="https://img.shields.io/badge/▶_PLAY_SNAKE_QUEST-Green_Arcade-65a30d?style=for-the-badge&logo=apple&logoColor=white" alt="Play Snake Quest"/>
+  </a>
+</p>
+
+Play a classic Snake game with a green checkerboard, blue snake, red apples, live score, and a saved personal best trophy counter. Use arrow keys or WASD; mobile touch controls are included.
+
+> GitHub README blocks interactive JavaScript, so the playable game opens as a separate GitHub Pages page. The Pages deployment workflow is included in this repository.
+
 ---
 
 ## 🎓 Certifications

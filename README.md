@@ -130,38 +130,11 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ## 💻 `./whoami --hacker-mode`
 
-```bash
-┌──(varshith㉿github)-[~/profile]
-└─$ cat identity.json
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/assets/hacker-profile-terminal.svg" alt="Animated hacker-style terminal with green text on a black background showing fun facts, personality, and goals" width="100%"/>
+</p>
 
-{
-  "alias": "Varshith Julakanti",
-  "role": "AI/ML Developer | Full-Stack Builder",
-  "fun_facts": [
-    "Building KshetraIQ — AI for real-world agriculture",
-    "Exploring deep learning for drug-target interaction prediction",
-    "Creating VORTEX — a personal AI assistant that can talk, remember, and act",
-    "Turning ambitious ideas into working software"
-  ],
-  "personality": {
-    "curious": true,
-    "learn_by": "Experimenting > Building > Testing",
-    "debugging_mode": "NEVER_GIVE_UP",
-    "default_mission": "Solve real problems with practical tech"
-  },
-  "current_targets": [
-    "Master Generative AI, LLMs & AI Agents",
-    "Build reliable AI products for real users",
-    "Contribute to open source",
-    "Explore advanced study in AI & Robotics"
-  ],
-  "mindset": "LEARN -> BUILD -> BREAK -> DEBUG -> LEVEL_UP"
-}
-
-┌──(varshith㉿github)-[~]
-└─$ echo $STATUS
-[ ONLINE ]  Building the future, one commit at a time.
-```
+> The terminal animation types out my profile, mindset, projects, and next targets in a green-on-black hacker aesthetic.
 
 ---
 

@@ -144,15 +144,13 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 <div align="center">
 
 <a href="https://varshith0105.github.io/Varshith0105/contact/">
-  <img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/assets/connect-with-me-preview.svg" width="100%" alt="Contact panel on the left and a waving green robot on the right. Click to open the message form."/>
+  <img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/assets/connect-with-me-preview.svg?v=terminal-only" width="100%" alt="Dark green hacker-style message form with name, optional email, message box and Send Message button. Click to open the interactive form."/>
 </a>
 
-### 💬 Have something to say? The bot is listening.
+**Want to collaborate, discuss an AI/ML idea, or just say hello?**  
+Click the message box above, enter your details, and send your message.
 
-**Write your name, email, and message in the contact terminal.**  
-Click the panel above to open the full form.
-
-<a href="https://varshith0105.github.io/Varshith0105/contact/"><img src="https://img.shields.io/badge/OPEN%20MESSAGE%20BOX-39FF78?style=for-the-badge&logo=probot&logoColor=061008&labelColor=101914" alt="Open message box"/></a>
+<a href="https://varshith0105.github.io/Varshith0105/contact/"><img src="https://img.shields.io/badge/OPEN%20MESSAGE%20BOX-39FF78?style=for-the-badge&logo=terminal&logoColor=061008&labelColor=101914" alt="Open message box"/></a>
 
 <sub><code>STATUS: CONTACT CHANNEL READY</code> · AI/ML · Generative AI · Full-Stack · Open Source</sub>
 

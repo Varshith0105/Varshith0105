@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Match reference: charcoal empty cells, sparse dark-to-bright green contributions, magenta snake
+      - name: Match reference palette with charcoal cells, green contributions, and magenta snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}

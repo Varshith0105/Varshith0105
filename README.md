@@ -1,79 +1,95 @@
-<!-- PROFILE README -->
+<!--
+  VARSHITH JULAKANTI — PROFILE README
+  Theme: AI command center / midnight neon
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:312e81,100:06b6d4&text=VARSHITH%20JULAKANTI&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20GENERATIVE%20AI%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Varshith Julakanti — AI/ML and Full-Stack Developer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:050816,35:111827,70:312e81,100:0891b2&text=VARSHITH%20JULAKANTI&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=ENGINEERING%20INTELLIGENCE.%20BUILDING%20WHAT%E2%80%99S%20NEXT.&descSize=14&descAlignY=62&animation=fadeIn" alt="Varshith Julakanti — Engineering intelligence"/>
 
-<a href="https://varshith-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0b1020?style=for-the-badge&logo=vercel&logoColor=00e5ff" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/varshith-j/"><img src="https://img.shields.io/badge/LINKEDIN-0b1020?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-<a href="https://github.com/Varshith0105"><img src="https://img.shields.io/badge/GITHUB-0b1020?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/></a>
-<a href="mailto:varshithjulakanti@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0b1020?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"/></a>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Varshith0105&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://varshith-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0B1020?style=for-the-badge&logo=vercel&logoColor=67e8f9" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/varshith-j/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn"/></a>
+<a href="https://github.com/Varshith0105?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0B1020?style=for-the-badge&logo=github&logoColor=ffffff" alt="Projects"/></a>
 
-### *I don't just build projects. I build solutions that matter.*
+<br/><br/>
+
+<a href="https://github.com/Varshith0105"><img src="https://komarev.com/ghpvc/?username=Varshith0105&style=for-the-badge&color=0891b2&label=PROFILE+SCANS" alt="Profile views"/></a>
+
+### `AI × SOFTWARE × REAL-WORLD IMPACT`
+
+*I turn ambitious ideas into useful, intelligent products — one experiment at a time.*
 
 </div>
 
 ---
 
-## 🧠 About Me
+## ▌01 — SYSTEM PROFILE
 
-Hey! I'm **Varshith Julakanti**, a Computer Science student specializing in **Artificial Intelligence & Machine Learning**. I enjoy building intelligent applications that connect ML models, APIs, and thoughtful user experiences.
+```yaml
+name: Varshith Julakanti
+focus:
+  - Artificial Intelligence & Machine Learning
+  - Generative AI and AI Agents
+  - Full-Stack Engineering
+currently_interested_in:
+  - LLM applications, RAG, and intelligent workflows
+  - Reliable ML deployment and real-world AI
+  - Robotics and human-centered computing
+build_philosophy: "Prototype boldly. Validate carefully. Ship thoughtfully."
+```
 
-- 🧬 **AI/ML:** deep learning, computer vision, prediction systems, and model deployment
-- ✨ **Generative AI:** exploring LLMs, RAG, semantic search, and agentic workflows
-- 🛠️ **Full stack:** building with Python, Java, React, Next.js, and Spring Boot
-- 🌾 **Applied AI:** creating practical tools for agriculture, healthcare, and productivity
-- 🤝 **Mindset:** learn continuously, build thoughtfully, and share what I learn
+I’m a Computer Science student specializing in **AI & ML** who enjoys working across the full stack — from model experiments and data pipelines to APIs and polished interfaces. I’m especially interested in AI that solves a clear problem, not just AI for the demo.
 
 ---
 
-## ⚡ Technology Arsenal
+## ▌02 — TECH STACK
 
 <div align="center">
 
-**LANGUAGES**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" alt="Python, Java, JavaScript, TypeScript, HTML, CSS"/>
+**LANGUAGES & ENGINEERING**
 
-**AI / DATA**
-<br/>
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css,git,github&theme=dark" alt="Python, Java, TypeScript, JavaScript, HTML, CSS, Git, GitHub"/>
+
+**AI / DATA / MODELING**
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="PyTorch, TensorFlow, OpenCV"/>
 <br/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Scikit--learn-f7931e?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
 
-**WEB / BACKEND / CLOUD**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,fastapi,postgres,mysql,docker,aws,git,github,vscode&theme=dark" alt="React, Next.js, Node.js, Spring, FastAPI, PostgreSQL, MySQL, Docker, AWS, Git, GitHub, VS Code"/>
+**WEB / BACKEND / INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,fastapi,postgres,mysql,docker,aws,vercel&theme=dark" alt="React, Next.js, Node.js, Spring, FastAPI, PostgreSQL, MySQL, Docker, AWS, Vercel"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Builds
+## ▌03 — SELECTED BUILDS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🌾 KshetraIQ
-**AI-powered agricultural intelligence**
+**AGRI INTELLIGENCE PLATFORM**
 
-Crop recommendation, soil and weather insights, model-backed predictions, and farmer-focused reports.
+AI-assisted agricultural guidance designed around crop recommendations, soil and weather context, model-backed predictions, and farmer-friendly reports.
 
-Python · FastAPI · Next.js · Machine Learning
+**Core stack:** Python · FastAPI · Next.js · ML
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧬 Drug Discovery AI
-**Drug–target interaction prediction**
+**DRUG–TARGET INTERACTION**
 
-Deep-learning project exploring drug–target interaction prediction with a web interface for presenting results.
+A machine-learning platform exploring drug–target interaction prediction, connecting deep-learning experimentation with a web interface.
 
-PyTorch · Deep Learning · React · TypeScript
+**Core stack:** PyTorch · Deep Learning · React · TypeScript
 
 </td>
 </tr>
@@ -81,90 +97,100 @@ PyTorch · Deep Learning · React · TypeScript
 <td width="50%" valign="top">
 
 ### 🤖 JARVIS / VORTEX
-**Personal AI assistant**
+**PERSONAL AI ASSISTANT**
 
-An assistant project concept focused on voice interaction, memory, and task-oriented AI agents.
+An assistant project exploring voice interaction, memory, and specialized agents for task-oriented workflows.
 
-Next.js · TypeScript · AI Agents
+**Core stack:** Next.js · TypeScript · AI agents
 
 </td>
 <td width="50%" valign="top">
 
 ### 📄 AI Resume Screener
-**AI-assisted resume matching**
+**CAREER MATCHING TOOL**
 
-Matches resume content against job descriptions to help surface relevant skills and experience.
+A resume and job-description matching project focused on making skills and experience easier to compare.
 
-Java · Generative AI · Web
+**Core stack:** Java · AI · Web development
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<a href="https://github.com/Varshith0105?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-312e81?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/></a>
+
+<a href="https://github.com/Varshith0105?tab=repositories"><img src="https://img.shields.io/badge/↗_BROWSE_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=67e8f9" alt="Browse all repositories"/></a>
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## ▌04 — GITHUB TROPHY CASE
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" alt="GitHub profile trophies"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" width="100%" alt="GitHub profile trophies"/>
+
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## ▌05 — CONTRIBUTION TELEMETRY
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith0105&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Top languages"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Varshith0105&hide_border=true&theme=tokyonight&background=0d1117&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee" alt="GitHub contribution streak"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&bg_color=050816&title_color=67e8f9&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith0105&layout=donut-vertical&hide_border=true&langs_count=6&theme=transparent&bg_color=050816&title_color=67e8f9&text_color=cbd5e1" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Varshith0105&hide_border=true&background=050816&ring=22d3ee&fire=a78bfa&currStreakLabel=67e8f9&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" width="80%" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshith0105&bg_color=050816&color=cbd5e1&line=22d3ee&point=a78bfa&area=true&hide_border=true&custom_title=Contribution%20Signal" width="100%" alt="GitHub contribution activity graph"/>
+
 </div>
 
 ---
 
-## 🐍 Contributions — Watch the Snake
+## ▌06 — THE CONTRIBUTION SNAKE
 
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake.svg"/>
-  <img alt="Animated snake following my GitHub contribution graph" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake-dark.svg" width="100%"/>
+  <img alt="Snake animation following GitHub contribution activity" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake-dark.svg" width="100%"/>
 </picture>
+
 </div>
 
-> The snake is generated automatically by GitHub Actions. On first setup, open the repository's **Actions** tab and run **Generate contribution snake** if it hasn't run yet.
+---
+
+## ▌07 — CURRENT EXPLORATION
+
+- **Generative AI:** LLM apps, retrieval-augmented generation, embeddings
+- **Agentic systems:** tool use, orchestration, memory, and safe automation
+- **ML engineering:** model serving, evaluation, and dependable APIs
+- **Robotics:** intelligent systems that connect software to the physical world
 
 ---
 
-## 🌱 What I'm Exploring
-
-- Retrieval-Augmented Generation (RAG), embeddings, and LLM applications
-- AI agents and reliable tool-using workflows
-- Production-ready ML APIs and full-stack architecture
-- Robotics and intelligent systems
-
----
-
-## 🤝 Let's Build Something
+## ▌08 — OPEN CHANNEL
 
 <div align="center">
 
-Interested in **AI/ML, Generative AI, full-stack engineering, or open source**? Let's connect.
+Have an interesting AI idea, open-source project, or engineering challenge? Let's connect.
 
-<a href="https://www.linkedin.com/in/varshith-j/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-<a href="https://varshith-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio"/></a>
-<a href="mailto:varshithjulakanti@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
+<a href="https://www.linkedin.com/in/varshith-j/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://varshith-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-See_my_work-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:varshithjulakanti@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say_hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-*Stay curious. Keep building. Make it useful.*
+**BUILD WITH CURIOSITY. SHIP WITH PURPOSE.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:050816&height=120&section=footer" width="100%" alt="Decorative footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0891b2,50:312e81,100:050816" alt="Neon footer"/>
 
 </div>

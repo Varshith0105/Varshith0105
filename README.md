@@ -128,57 +128,39 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 
 
-## 👨‍💻 Fun Facts, Personality & Targets
+## 💻 `./whoami --hacker-mode`
 
-<div align="center">
+```bash
+┌──(varshith㉿github)-[~/profile]
+└─$ cat identity.json
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### 🎯 Fun Facts
-
-- 🌾 Building AI for real-world agriculture with **KshetraIQ**.
-- 🧬 Exploring deep learning for **drug–target interaction prediction**.
-- 🤖 Dreaming up a personal AI assistant that can **talk, remember, and take action**.
-- 🛠️ I enjoy turning ideas into working full-stack projects.
-
-</td>
-<td width="33%" valign="top">
-
-### 🧠 My Personality
-
-- 🔍 Curious by nature; I like exploring how things work.
-- 🧪 Learn by experimenting, building, and testing.
-- 💪 Persistent about debugging and improving projects.
-- 🌍 Prefer practical solutions that solve real problems.
-
-</td>
-<td width="33%" valign="top">
-
-### 🚀 My Targets
-
-- 🤖 Go deeper into **Generative AI, LLMs, and AI agents**.
-- 🌱 Build useful, reliable AI products for real users.
-- 🌐 Contribute to open source and collaborate with developers.
-- 🎓 Explore advanced study in **AI and Robotics**.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### `varshith.profile()`
-
-```python
-profile = {
-    "focus": ["AI/ML", "Generative AI", "Full Stack"],
-    "mindset": "Learn -> Build -> Test -> Improve",
-    "building": ["KshetraIQ", "Drug Discovery AI", "VORTEX"],
-    "mission": "Turn ambitious ideas into useful products",
-    "next_targets": ["AI Agents", "Open Source", "Robotics"]
+{
+  "alias": "Varshith Julakanti",
+  "role": "AI/ML Developer | Full-Stack Builder",
+  "fun_facts": [
+    "Building KshetraIQ — AI for real-world agriculture",
+    "Exploring deep learning for drug-target interaction prediction",
+    "Creating VORTEX — a personal AI assistant that can talk, remember, and act",
+    "Turning ambitious ideas into working software"
+  ],
+  "personality": {
+    "curious": true,
+    "learn_by": "Experimenting > Building > Testing",
+    "debugging_mode": "NEVER_GIVE_UP",
+    "default_mission": "Solve real problems with practical tech"
+  },
+  "current_targets": [
+    "Master Generative AI, LLMs & AI Agents",
+    "Build reliable AI products for real users",
+    "Contribute to open source",
+    "Explore advanced study in AI & Robotics"
+  ],
+  "mindset": "LEARN -> BUILD -> BREAK -> DEBUG -> LEVEL_UP"
 }
+
+┌──(varshith㉿github)-[~]
+└─$ echo $STATUS
+[ ONLINE ]  Building the future, one commit at a time.
 ```
 
 ---

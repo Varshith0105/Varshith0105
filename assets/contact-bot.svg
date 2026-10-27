@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220">
+<defs><linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#173c25"/><stop offset="1" stop-color="#07150b"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="3s" repeatCount="indefinite"/>
+<path d="M110 22v22" stroke="#39ff78" stroke-width="5" stroke-linecap="round"/><circle cx="110" cy="15" r="8" fill="#39ff78"><animate attributeName="opacity" values="1;.4;1" dur="1.8s" repeatCount="indefinite"/></circle>
+<rect x="38" y="48" width="144" height="112" rx="30" fill="url(#body)" stroke="#39ff78" stroke-width="3" filter="url(#glow)"/>
+<rect x="52" y="63" width="116" height="62" rx="18" fill="#020704" stroke="#1a6333" stroke-width="2"/>
+<ellipse cx="83" cy="93" rx="9" ry="12" fill="#39ff78"><animate attributeName="ry" values="12;12;1;12;12" keyTimes="0;.46;.48;.5;1" dur="4s" repeatCount="indefinite"/></ellipse><ellipse cx="137" cy="93" rx="9" ry="12" fill="#39ff78"><animate attributeName="ry" values="12;12;1;12;12" keyTimes="0;.46;.48;.5;1" dur="4s" repeatCount="indefinite"/></ellipse>
+<path d="M88 111q22 16 44 0" fill="none" stroke="#39ff78" stroke-width="4" stroke-linecap="round"/>
+<rect x="20" y="82" width="18" height="38" rx="8" fill="#102b19" stroke="#39ff78" stroke-width="2"/><rect x="182" y="82" width="18" height="38" rx="8" fill="#102b19" stroke="#39ff78" stroke-width="2"/>
+<rect x="60" y="166" width="100" height="25" rx="10" fill="#102b19" stroke="#39ff78" stroke-width="2"/><circle cx="84" cy="178" r="4" fill="#39ff78"/><circle cx="110" cy="178" r="4" fill="#39ff78"/><circle cx="136" cy="178" r="4" fill="#39ff78"/>
+<path d="M79 192v10m62-10v10" stroke="#39ff78" stroke-width="6" stroke-linecap="round"/>
+</g></svg>

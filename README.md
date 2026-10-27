@@ -20,20 +20,17 @@
 
 ## 😎 I'M VARSHITH!
 
-<img align="right" width="48%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="The same celebrating owl with confetti as the reference profile"/>
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Celebrating owl with confetti"/>
 
 *Digital Craftsman (AI/ML Developer / Programmer)*
 
-I am **Varshith Julakanti**, a Computer Science student specializing in **Artificial Intelligence and Machine Learning at VIT-AP**. I enjoy building useful applications, from machine-learning models to full-stack products.
+I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learning at VIT-AP**. I build practical AI/ML solutions and full-stack applications, and I'm exploring **Generative AI, LLMs, RAG, and AI agents**.
 
-- ✨ Student of technology — always curious, always building.
-- 🌱 I'm currently learning about Generative AI, LLM applications, RAG, and AI agents.
-- 🧠 Building AI projects for agriculture, drug discovery, and productivity.
-- 🛠️ Working with Python, Java, React.js, Next.js, FastAPI, and Spring Boot.
-- 💜 Open to collaborating on AI/ML, Generative AI, and open-source projects.
-- ✍️ Learning by building, testing, deploying, and improving.
-- 💻 Visit my [Portfolio](https://varshith-portfolio-omega.vercel.app/) for more details about me.
-- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/varshith-j/) or via [Email](mailto:varshithjulakanti@gmail.com).
+- ✨ Always learning, experimenting, and building.
+- 🧠 AI projects in agriculture, drug discovery, and productivity.
+- 🛠️ **Tech:** Python, Java, React, Next.js, FastAPI, Spring Boot.
+- 💜 Open to AI/ML, GenAI, and open-source collaboration.
+- 💻 [Portfolio](https://varshith-portfolio-omega.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/varshith-j/) · [Email](mailto:varshithjulakanti@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Varshith0105&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square&base=10000)
 

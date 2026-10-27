@@ -93,9 +93,7 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ### GitHub Statistics
 
-<p align="center"><img src="https://img.shields.io/badge/GitHub_Rank-A%2B-C084FC?style=for-the-badge&labelColor=161B22" alt="A+ rank display badge"/></p>
-
-<a href="https://github.com/Varshith0105"><img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=none&theme=transparent&bg_color=00000000&title_color=C084FC&text_color=E2E8F0&icon_color=C084FC" width="100%" alt="GitHub statistics"/></a>
+<a href="https://github.com/Varshith0105"><img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=00000000&title_color=C084FC&text_color=E2E8F0&icon_color=C084FC" width="100%" alt="GitHub statistics"/></a>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -111,7 +109,7 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 ## 🐍 Snake Contribution
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake.svg" alt="GitHub contribution snake in a dark purple and violet theme"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake.svg" alt="GitHub contribution snake with a deep navy, violet, purple, and cyan color palette"/>
 </p>
 
 ## 🎓 Certifications

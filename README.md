@@ -20,15 +20,15 @@
 
 ## 😎 I'M VARSHITH!
 
-<img align="right" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2treGo2MWlsMm41bTYzZjJqNWs1dWdtcmNiaHRzeTdrMm9laGl6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ff54BctkWA5ry/giphy.gif" alt="Celebrating owl with confetti"/>
+<img align="right" width="390" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2treGo2MWlsMm41bTYzZjJqNWs1dWdtcmNiaHRzeTdrMm9laGl6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ff54BctkWA5ry/giphy.gif" alt="The same celebrating owl with confetti as the reference profile"/>
 
 *Digital Craftsman (AI/ML Developer / Programmer)*
 
-I'm **Varshith Julakanti**, a Computer Science student specializing in Artificial Intelligence and Machine Learning at VIT-AP. I enjoy building practical applications — from machine-learning models and AI agents to full-stack products.
+I am **Varshith Julakanti**, a Computer Science student specializing in **Artificial Intelligence and Machine Learning at VIT-AP**. I enjoy building useful applications, from machine-learning models to full-stack products.
 
 - ✨ Student of technology — always curious, always building.
-- 🌱 I'm currently exploring Generative AI, LLM applications, RAG, and AI agents.
-- 🧠 I enjoy building real-world AI projects in agriculture, drug discovery, and productivity.
+- 🌱 I'm currently learning about Generative AI, LLM applications, RAG, and AI agents.
+- 🧠 Building AI projects for agriculture, drug discovery, and productivity.
 - 🛠️ Working with Python, Java, React.js, Next.js, FastAPI, and Spring Boot.
 - 💜 Open to collaborating on AI/ML, Generative AI, and open-source projects.
 - ✍️ Learning by building, testing, deploying, and improving.

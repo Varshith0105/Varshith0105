@@ -109,7 +109,7 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 ## 🐍 Snake Contribution
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake.svg?v=20261028-purplegreen" alt="GitHub contribution snake with a GitHub-dark green contribution cells with a magenta snake"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake.svg?v=reference-green-magenta-2" alt="GitHub contribution snake with a Charcoal checkerboard with sparse GitHub-green contribution cells and a magenta snake"/>
 </p>
 
 ## 🎓 Certifications

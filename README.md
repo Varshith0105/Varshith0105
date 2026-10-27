@@ -65,7 +65,7 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ## 🚀 Featured Projects
 
-Explore my main projects below. Each project has its own themed 3D-style illustration, a short overview, and a direct repository link. **Live Demo** is shown only where a deployed URL is listed in the project repository.
+Explore my main projects below with real, topic-related visual references, a short overview, and direct repository links. Each image includes a link to its original source page.
 
 <table width="100%" border="0" cellspacing="0" cellpadding="12">
 <tr>
@@ -77,6 +77,8 @@ Explore my main projects below. Each project has its own themed 3D-style illustr
 ### 🌾 KshetraIQ — Agricultural Intelligence
 
 AI-powered farm decision support for crop recommendations, soil health, weather insights, and farmer-friendly reports.
+
+<sub>Visual reference: [Precision farming article](https://arccjournals.com/blogs/research-insights/empowering-indian-agriculture-with-digital-precision)</sub>
 
 **Stack:** Python · FastAPI · Next.js · Scikit-learn
 
@@ -95,6 +97,8 @@ AI-powered farm decision support for crop recommendations, soil health, weather 
 
 An AI assistant project exploring voice-first interaction, contextual memory, and task-oriented agents.
 
+<sub>Visual reference: [AI assistant interface](https://aiworldservice.com/)</sub>
+
 **Stack:** Next.js · TypeScript · AI Agents
 
 [Repository](https://github.com/Varshith0105/your-personal-ai-chat)
@@ -111,6 +115,8 @@ An AI assistant project exploring voice-first interaction, contextual memory, an
 ### 🧬 Drug Discovery AI
 
 Deep-learning platform for predicting drug–target interactions using molecular and protein information.
+
+<sub>Visual reference: [AI-driven drug discovery](https://news.thinkverse-ai.com/news/139)</sub>
 
 **Stack:** PyTorch · CNN · Transformers · CatBoost
 
@@ -129,6 +135,8 @@ Deep-learning platform for predicting drug–target interactions using molecular
 
 Compares resume skills and experience with job descriptions to support candidate matching and skill-gap analysis.
 
+<sub>Visual reference: [Resume World screening platform](https://resumeworld.app/)</sub>
+
 **Stack:** Java · Spring Boot · React · Generative AI
 
 [Repository](https://github.com/Varshith0105/AI-RESUME-SCREENER)
@@ -145,6 +153,8 @@ Compares resume skills and experience with job descriptions to support candidate
 ### 📈 Stock Price Prediction
 
 An LSTM-based time-series project that learns patterns from historical stock-price data and produces forecasts.
+
+<sub>Visual reference: [LSTM stock forecasting example](https://pyfi.com/blogs/articles/stock-price-forecasting-using-machine-learning-in-python-2023)</sub>
 
 **Stack:** Python · LSTM · TensorFlow/Keras
 
@@ -163,6 +173,8 @@ An LSTM-based time-series project that learns patterns from historical stock-pri
 
 A full-stack learning management system concept for courses, assessments, student progress, and instructor workflows.
 
+<sub>Visual reference: [EduSphere dashboard concept](https://dribbble.com/shots/23077581-EduSphere-E-learning-platform-Dashboard)</sub>
+
 **Stack:** React · TypeScript · Java 21 · Spring Boot · SQL
 
 [Repository](https://github.com/Varshith0105/EDUSPHERE-LMS)
@@ -179,6 +191,8 @@ A full-stack learning management system concept for courses, assessments, studen
 ### 🩺 Skin Disease Prediction — SmartSkinAI
 
 A deep-learning image classification project for skin-condition screening, with supporting healthcare-oriented features.
+
+<sub>Visual reference: [AI skin-lesion analysis pipeline](https://www.meduniwien.ac.at/web/en/about-us/news/detailsite/2020/news-im-juni-2020/study-illustrates-huge-potential-of-humanartificial-intelligence-collaboration-in-medicine/)</sub>
 
 **Stack:** Python · TensorFlow · Keras · Flask · Firebase
 

@@ -112,35 +112,28 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
   <img width="100%" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake.svg?v=reference-green-magenta-3" alt="GitHub contribution snake with a Charcoal checkerboard with sparse GitHub-green contribution cells and a magenta snake"/>
 </p>
 
-## 🎓 Certifications & Credentials
+## 📜 Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- **AWS Certified Solutions Architect Associate** — Amazon Web Services
+- **Oracle Cloud Infrastructure Foundations Associate** — Oracle
+- **Oracle Cloud Infrastructure Generative AI Professional** — Oracle
+- **Gen AI and ChatGPT** — BlackBucks Group
+- **Data Analysis with Python** — Cognitive Class
+- **Prompt Engineering** — DeepLearning.AI
+- **Agile Scrum in Practice** — Infosys Springboard
+- **AI Fundamentals** — IBM SkillsBuild
+- **AWS Cloud Practitioner Essentials** — Amazon Web Services
+- **Certified System Administrator** — ServiceNow
+- **Cloud Foundations** — AWS Academy
+- **Cloud Architecting** — AWS Academy
+- **Fundamentals of Deep Learning** — NVIDIA
+- **MATLAB Onramp** — MathWorks
 
-### Professional Certifications
+### Job Simulations & Virtual Experience
 
-- **AWS** — AWS Certified Solutions Architect – Associate
-- **Oracle** — OCI 2025 Certified Generative AI Professional
-- **Oracle** — Generative AI Foundation & Professional
-- **NVIDIA** — Fundamentals of Deep Learning
-- **JPMorgan Chase & Co. (Forage)** — Software Engineering Job Simulation
-- **Adobe** — Adobe Certificate (listed under extracurriculars in my resume)
+- **Software Engineering Job Simulation** — JPMorgan Chase & Co. (Forage)
+- **GenAI-Powered Data Analytics Job Simulation** — Tata Consultancy Services (Forage)
 
-</td>
-<td width="50%" valign="top">
-
-### Professional Certifications
-
-- **ServiceNow** — Certified System Administrator
-- **Oracle** — OCI 2025 Certified AI Foundations Associate
-- **AWS Academy** — Cloud Foundations & Cloud Architecting
-- **MATLAB** — MATLAB Onramp
-- **Tata Consultancy Services (Forage)** — GenAI-Powered Data Analytics Job Simulation
-
-</td>
-</tr>
-</table>
 
 ## 🤝 Connect With Me
 

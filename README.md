@@ -81,22 +81,58 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Analytics & Activity
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" width="100%" alt="GitHub profile trophies"/>
-</div>
+<table width="100%" cellspacing="0" cellpadding="10">
+<tr>
+<td width="50%" valign="top" align="center">
 
-## 📊 GitHub Statistics
+### GitHub Statistics
 
-<div align="center">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=0D0B16&title_color=C084FC&text_color=E9D5FF&icon_color=E879F9" alt="GitHub statistics"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith0105&layout=compact&hide_border=true&theme=transparent&bg_color=0D0B16&title_color=C084FC&text_color=E9D5FF" alt="Most-used languages"/>
-</div>
+<a href="https://github.com/Varshith0105"><img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=0D0B16&title_color=22D3EE&text_color=E2E8F0&icon_color=22D3EE" width="100%" alt="Varshith's GitHub statistics"/></a>
 
-<div align="center">
-<img width="75%" src="https://streak-stats.demolab.com?user=Varshith0105&hide_border=true&background=0D0B16&ring=C084FC&fire=E879F9&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
-</div>
+</td>
+<td width="50%" valign="top" align="center">
+
+### Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=Varshith0105&hide_border=true&background=0D0B16&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" alt="GitHub contribution streak"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith0105&layout=compact&hide_border=true&theme=transparent&bg_color=0D0B16&title_color=22D3EE&text_color=E2E8F0" width="100%" alt="Most used programming languages on GitHub"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=2&column=4" width="100%" alt="GitHub profile trophies and achievements"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" align="center">
+
+### Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varshith0105&bg_color=0D0B16&color=E2E8F0&line=22D3EE&point=22D3EE&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<a href="https://github.com/Varshith0105?tab=repositories">Explore repositories</a> · <a href="https://github.com/Varshith0105?tab=overview&from=2026-01-01&to=2026-12-31">View contribution overview</a>
+
+</td>
+</tr>
+</table>
 
 ## 🐍 Contribution Snake
 
@@ -106,12 +142,6 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake.svg"/>
   <img width="100%" src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake-dark.svg" alt="GitHub contribution snake animation"/>
 </picture>
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Varshith0105&bg_color=0D0B16&color=E9D5FF&line=C084FC&point=E879F9&area=true&hide_border=true" alt="GitHub contribution graph"/>
 </div>
 
 ---

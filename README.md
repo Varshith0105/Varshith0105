@@ -19,15 +19,35 @@
 
 ---
 
-## 👋 About Me
+## 😎 I'M VARSHITH!
 
-Hey, I'm **Varshith Julakanti**, a Computer Science student specializing in **Artificial Intelligence and Machine Learning** at VIT-AP. I enjoy building practical systems that bring together machine-learning models, backend engineering, and polished user experiences.
+<table>
+<tr>
+<td width="62%" valign="top">
 
-- 🧠 Exploring **Generative AI, LLMs, RAG, semantic search, and AI agents**
-- 🧬 Building ML solutions for agriculture, drug discovery, and productivity
-- ⚙️ Working with **Python, Java, PyTorch, TensorFlow, React, Next.js, and Spring Boot**
-- 🚀 Interested in reliable AI engineering, robotics, and useful open-source projects
-- 🤝 Always learning and looking for meaningful engineering challenges
+### *Digital Craftsman (AI/ML Developer & Programmer)*
+
+I'm **Varshith Julakanti**, a Computer Science student specializing in **Artificial Intelligence and Machine Learning at VIT-AP**. I enjoy turning ideas into useful applications — from training machine-learning models to building full-stack products that people can actually use.
+
+- ✨ **Student of technology** — always curious, always building.
+- 🌱 **Currently exploring** Generative AI, LLM applications, RAG, and AI agents.
+- 🧠 **AI/ML enthusiast** working on real-world ideas in agriculture, drug discovery, and productivity.
+- 🛠️ **Full-stack developer** building with Python, Java, React, Next.js, and FastAPI/Spring Boot.
+- 🚀 **Learning by shipping** — experimenting, testing, deploying, and improving projects.
+- 💜 **Open to collaboration** on AI/ML, Generative AI, and open-source projects.
+- 💻 Visit my **[Portfolio](https://varshith-portfolio-omega.vercel.app/)** to learn more about me.
+- 📬 Reach me via **[LinkedIn](https://www.linkedin.com/in/varshith-j/)** or [Email](mailto:varshithjulakanti@gmail.com).
+
+<img src="https://komarev.com/ghpvc/?username=Varshith0105&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square&base=10000" alt="Profile views"/>
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Animated developer coding"/>
+
+</td>
+</tr>
+</table>
 
 ## ⚡ What I'm Building & Learning
 

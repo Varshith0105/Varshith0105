@@ -65,12 +65,12 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ## 🚀 Featured Projects
 
-Explore my main projects below with real, topic-related visual references, a short overview, and direct repository links. Each image includes a link to its original source page.
+A visual tour of selected projects, with consistent image sizing, concise technical summaries, and direct GitHub links.
 
 <table width="100%" border="0" cellspacing="0" cellpadding="12">
 <tr>
 <td width="36%" valign="middle" align="center">
-<a href="https://github.com/Varshith0105/KshetraIQ"><img src="https://arccarticles.s3.amazonaws.com/Blog/Featured-image-6089603e9087340b9bdcbbb1-1769410364792-0.png" width="100%" alt="Farmer using AI-powered precision agriculture tools"/></a>
+<a href="https://github.com/Varshith0105/KshetraIQ"><img src="https://images.yybcdn.com/sites/99500/99812/1778293828911564145659965440.jpg" width="100%" height="220" alt="Farmer using AI-powered precision agriculture tools"/></a>
 </td>
 <td valign="middle">
 
@@ -78,18 +78,16 @@ Explore my main projects below with real, topic-related visual references, a sho
 
 AI-powered farm decision support for crop recommendations, soil health, weather insights, and farmer-friendly reports.
 
-<sub>Visual reference: [Precision farming article](https://arccjournals.com/blogs/research-insights/empowering-indian-agriculture-with-digital-precision)</sub>
-
 **Stack:** Python · FastAPI · Next.js · Scikit-learn
 
-[Repository (private)](https://github.com/Varshith0105/KshetraIQ)
+[GitHub](https://github.com/Varshith0105/KshetraIQ)
 
 </td>
 </tr>
 <tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="36%" valign="middle" align="center">
-<a href="https://github.com/Varshith0105/your-personal-ai-chat"><img src="https://aiworldservice.com/uploads/products/ai_chatbot.png" width="100%" alt="Futuristic AI assistant interface"/></a>
+<a href="https://github.com/Varshith0105/your-personal-ai-chat"><img src="https://miro.medium.com/v2/1%2AMHmZBjzVpIpLMvrmYE59hg.png" width="100%" height="220" alt="Futuristic AI assistant interface"/></a>
 </td>
 <td valign="middle">
 
@@ -97,18 +95,16 @@ AI-powered farm decision support for crop recommendations, soil health, weather 
 
 An AI assistant project exploring voice-first interaction, contextual memory, and task-oriented agents.
 
-<sub>Visual reference: [AI assistant interface](https://aiworldservice.com/)</sub>
-
 **Stack:** Next.js · TypeScript · AI Agents
 
-[Repository](https://github.com/Varshith0105/your-personal-ai-chat)
+[GitHub](https://github.com/Varshith0105/your-personal-ai-chat)
 
 </td>
 </tr>
 <tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="36%" valign="middle" align="center">
-<a href="https://github.com/Varshith0105/Drug_Discovery_AI_CNN-Based"><img src="https://news.thinkverse-ai.com/static/uploads/ai_gemini_20260207_160822.jpg" width="100%" alt="AI drug discovery protein and neural network visualization"/></a>
+<a href="https://github.com/Varshith0105/Drug_Discovery_AI_CNN-Based"><img src="https://thesheffieldpress.com/uploads/source-1784077739076-a4ae2d3e-og.webp" width="100%" height="220" alt="AI drug discovery protein and neural network visualization"/></a>
 </td>
 <td valign="middle">
 
@@ -116,26 +112,22 @@ An AI assistant project exploring voice-first interaction, contextual memory, an
 
 Deep-learning platform for predicting drug–target interactions using molecular and protein information.
 
-<sub>Visual reference: [AI-driven drug discovery](https://news.thinkverse-ai.com/news/139)</sub>
-
 **Stack:** PyTorch · CNN · Transformers · CatBoost
 
-[Application repository](https://github.com/Varshith0105/Drug_Discovery_AI_CNN-Based) · [Model repository](https://github.com/Varshith0105/DrugDiscovery_Model)
+[GitHub](https://github.com/Varshith0105/Drug_Discovery_AI_CNN-Based) · [GitHub](https://github.com/Varshith0105/DrugDiscovery_Model)
 
 </td>
 </tr>
 <tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="36%" valign="middle" align="center">
-<a href="https://github.com/Varshith0105/AI-RESUME-SCREENER"><img src="https://resumeworld.app/og-image.jpg" width="100%" alt="AI resume screening platform dashboard"/></a>
+<a href="https://github.com/Varshith0105/AI-RESUME-SCREENER"><img src="https://raw.githubusercontent.com/Varshith0105/AI-RESUME-SCREENER/main/docs/images/01-smart-resume-screener-dashboard.png" width="100%" height="220" alt="AI resume screening platform dashboard"/></a>
 </td>
 <td valign="middle">
 
 ### 📄 AI Resume Screener
 
 Compares resume skills and experience with job descriptions to support candidate matching and skill-gap analysis.
-
-<sub>Visual reference: [Resume World screening platform](https://resumeworld.app/)</sub>
 
 **Stack:** Java · Spring Boot · React · Generative AI
 
@@ -146,7 +138,7 @@ Compares resume skills and experience with job descriptions to support candidate
 <tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="36%" valign="middle" align="center">
-<a href="https://github.com/Varshith0105/StockPrice_Prediction_using_LSTM"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147557954/images/a30a18e-af55-2b05-c5e4-e5f6e6abd0f_LSTM.png" width="100%" alt="Actual versus predicted stock prices using an LSTM model"/></a>
+<a href="https://github.com/Varshith0105/StockPrice_Prediction_using_LSTM"><img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147557954/images/a30a18e-af55-2b05-c5e4-e5f6e6abd0f_LSTM.png" width="100%" height="220" alt="Actual versus predicted stock prices using an LSTM model"/></a>
 </td>
 <td valign="middle">
 
@@ -154,26 +146,22 @@ Compares resume skills and experience with job descriptions to support candidate
 
 An LSTM-based time-series project that learns patterns from historical stock-price data and produces forecasts.
 
-<sub>Visual reference: [LSTM stock forecasting example](https://pyfi.com/blogs/articles/stock-price-forecasting-using-machine-learning-in-python-2023)</sub>
-
 **Stack:** Python · LSTM · TensorFlow/Keras
 
-[Model repository](https://github.com/Varshith0105/StockPrice_Prediction_using_LSTM) · [StockAI application repository](https://github.com/Varshith0105/stock-predictor-pro)
+[GitHub](https://github.com/Varshith0105/StockPrice_Prediction_using_LSTM) · [GitHub](https://github.com/Varshith0105/stock-predictor-pro)
 
 </td>
 </tr>
 <tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="36%" valign="middle" align="center">
-<a href="https://github.com/Varshith0105/EDUSPHERE-LMS"><img src="https://cdn.dribbble.com/userupload/11465111/file/original-40f080336c20c0a3db1021f480ca37ba.png?crop=0x0-6402x4801&resize=1600x1200" width="100%" alt="E-learning dashboard with courses and progress analytics"/></a>
+<a href="https://github.com/Varshith0105/EDUSPHERE-LMS"><img src="https://cdn.dribbble.com/userupload/42830623/file/original-54254f25b97c261c4160c1c5576c7dbf.png?resize=1600x1200" width="100%" height="220" alt="E-learning dashboard with courses and progress analytics"/></a>
 </td>
 <td valign="middle">
 
 ### 🎓 EduSphere LMS
 
 A full-stack learning management system concept for courses, assessments, student progress, and instructor workflows.
-
-<sub>Visual reference: [EduSphere dashboard concept](https://dribbble.com/shots/23077581-EduSphere-E-learning-platform-Dashboard)</sub>
 
 **Stack:** React · TypeScript · Java 21 · Spring Boot · SQL
 
@@ -184,15 +172,13 @@ A full-stack learning management system concept for courses, assessments, studen
 <tr><td colspan="2"><hr/></td></tr>
 <tr>
 <td width="36%" valign="middle" align="center">
-<a href="https://github.com/Varshith0105/Skin-disease-Prediction"><img src="https://www.meduniwien.ac.at/web/fileadmin/_processed_/7/c/csm_a926EqXoTAi0qM5gGdM6_Unbenannt-1_4e59fbf5b5.jpg" width="100%" alt="AI skin lesion analysis pipeline"/></a>
+<a href="https://github.com/Varshith0105/Skin-disease-Prediction"><img src="https://substackcdn.com/image/fetch/%24s_%218Tcg%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep/https%3A/substack-post-media.s3.amazonaws.com/public/images/7d124583-942e-47ac-95e1-29432e29956b_1536x1024.png" width="100%" height="220" alt="AI skin lesion analysis pipeline"/></a>
 </td>
 <td valign="middle">
 
 ### 🩺 Skin Disease Prediction — SmartSkinAI
 
 A deep-learning image classification project for skin-condition screening, with supporting healthcare-oriented features.
-
-<sub>Visual reference: [AI skin-lesion analysis pipeline](https://www.meduniwien.ac.at/web/en/about-us/news/detailsite/2020/news-im-juni-2020/study-illustrates-huge-potential-of-humanartificial-intelligence-collaboration-in-medicine/)</sub>
 
 **Stack:** Python · TensorFlow · Keras · Flask · Firebase
 
@@ -211,7 +197,7 @@ A deep-learning image classification project for skin-condition screening, with 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" width="100%" alt="GitHub profile trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" width="100%" height="220" alt="GitHub profile trophies"/>
 </div>
 
 ## 📊 GitHub Statistics

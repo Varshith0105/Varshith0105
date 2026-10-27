@@ -21,33 +21,28 @@
 
 ## 😎 I'M VARSHITH!
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<div align="center">
+  <h3><i>Digital Craftsman (AI/ML Developer / Programmer)</i></h3>
+</div>
 
-### *Digital Craftsman (AI/ML Developer & Programmer)*
+I'm **Varshith Julakanti**, a Computer Science student specializing in Artificial Intelligence and Machine Learning with a big interest in creating useful software — from ML models and AI agents to full-stack applications.
 
-I'm **Varshith Julakanti**, a Computer Science student specializing in **Artificial Intelligence and Machine Learning at VIT-AP**. I enjoy turning ideas into useful applications — from training machine-learning models to building full-stack products that people can actually use.
+- ✨ Student of technology — always curious, always building.
+- 🌱 I'm currently exploring Generative AI, LLM applications, RAG, and AI agents.
+- 🧠 I enjoy building real-world AI projects in agriculture, drug discovery, and productivity.
+- 🛠️ Working with Python, Java, React.js, Next.js, FastAPI, and Spring Boot.
+- 💜 Open to collaborating on AI/ML, Generative AI, and open-source projects.
+- ✍️ I like learning by building, testing, deploying, and improving.
+- 💻 Visit my [Portfolio](https://varshith-portfolio-omega.vercel.app/) for more details about me.
+- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/varshith-j/) or via [Email](mailto:varshithjulakanti@gmail.com).
 
-- ✨ **Student of technology** — always curious, always building.
-- 🌱 **Currently exploring** Generative AI, LLM applications, RAG, and AI agents.
-- 🧠 **AI/ML enthusiast** working on real-world ideas in agriculture, drug discovery, and productivity.
-- 🛠️ **Full-stack developer** building with Python, Java, React, Next.js, and FastAPI/Spring Boot.
-- 🚀 **Learning by shipping** — experimenting, testing, deploying, and improving projects.
-- 💜 **Open to collaboration** on AI/ML, Generative AI, and open-source projects.
-- 💻 Visit my **[Portfolio](https://varshith-portfolio-omega.vercel.app/)** to learn more about me.
-- 📬 Reach me via **[LinkedIn](https://www.linkedin.com/in/varshith-j/)** or [Email](mailto:varshithjulakanti@gmail.com).
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Varshith0105&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square&base=10000" alt="Profile views"/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Varshith0105&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square&base=10000" alt="Profile views"/>
-
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Animated developer coding"/>
-
-</td>
-</tr>
-</table>
+<div align="right">
+  <img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/assets/owl-celebration.gif" width="300" alt="Celebrating owl"/>
+</div>
 
 ## ⚡ What I'm Building & Learning
 

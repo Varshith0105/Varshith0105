@@ -143,16 +143,19 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 <div align="center">
 
-I'm interested in connecting with people working on **AI/ML, Generative AI, full-stack engineering, and open source**.
+<a href="https://varshith0105.github.io/Varshith0105/contact/">
+  <img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/assets/contact-bot.svg" width="150" alt="Animated green robot contact assistant"/>
+</a>
 
-<a href="https://www.linkedin.com/in/varshith-j/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://varshith-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:varshithjulakanti@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+### 🤖 Need a human? Talk to the bot first.
 
-<br/><br/>
+**Got an idea, collaboration, opportunity, or a cool tech problem?**  
+The little bot will open a message form for you — add your name, email, topic, and message.
+
+<a href="https://varshith0105.github.io/Varshith0105/contact/"><img src="https://img.shields.io/badge/OPEN%20MESSAGE%20BOX-39FF78?style=for-the-badge&logo=probot&logoColor=061008&labelColor=101914" alt="Open message box"/></a>
+
+<sub><code>STATUS: CONTACT CHANNEL READY</code> · AI/ML · Generative AI · Full-Stack · Open Source</sub>
 
 *Build with curiosity. Validate carefully. Ship thoughtfully.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10051d,45:4c1d95,100:9333ea&height=120&section=footer" alt="Purple footer banner"/>
 
 </div>

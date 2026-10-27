@@ -128,6 +128,61 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 
 
+## 👨‍💻 Fun Facts, Personality & Targets
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### 🎯 Fun Facts
+
+- 🌾 Building AI for real-world agriculture with **KshetraIQ**.
+- 🧬 Exploring deep learning for **drug–target interaction prediction**.
+- 🤖 Dreaming up a personal AI assistant that can **talk, remember, and take action**.
+- 🛠️ I enjoy turning ideas into working full-stack projects.
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 My Personality
+
+- 🔍 Curious by nature; I like exploring how things work.
+- 🧪 Learn by experimenting, building, and testing.
+- 💪 Persistent about debugging and improving projects.
+- 🌍 Prefer practical solutions that solve real problems.
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 My Targets
+
+- 🤖 Go deeper into **Generative AI, LLMs, and AI agents**.
+- 🌱 Build useful, reliable AI products for real users.
+- 🌐 Contribute to open source and collaborate with developers.
+- 🎓 Explore advanced study in **AI and Robotics**.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### `varshith.profile()`
+
+```python
+profile = {
+    "focus": ["AI/ML", "Generative AI", "Full Stack"],
+    "mindset": "Learn -> Build -> Test -> Improve",
+    "building": ["KshetraIQ", "Drug Discovery AI", "VORTEX"],
+    "mission": "Turn ambitious ideas into useful products",
+    "next_targets": ["AI Agents", "Open Source", "Robotics"]
+}
+```
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">

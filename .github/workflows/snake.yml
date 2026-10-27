@@ -6,24 +6,27 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    paths:
+      - ".github/workflows/snake.yml"
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake SVGs
+      - name: Generate green checkerboard-style contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#60a5fa&color_dots=#0b1020,#172554,#1d4ed8,#3b82f6,#93c5fd
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#60a5fa&color_dots=#0b1020,#172554,#1d4ed8,#3b82f6,#93c5fd
+            dist/github-snake.svg?color_snake=%232563eb&color_empty=%23bef264&color_dots=%2384cc16,%2365a30d,%234d7c0f,%233f6212
+            dist/github-snake-dark.svg?color_snake=%232563eb&color_empty=%23a3e635&color_dots=%2384cc16,%2365a30d,%234d7c0f,%233f6212
 
-      - name: Publish to output branch
+      - name: Publish snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

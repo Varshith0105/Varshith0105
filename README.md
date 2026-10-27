@@ -97,7 +97,7 @@ An assistant concept focused on voice-first interaction, contextual memory, and 
 
 **Stack:** Next.js · TypeScript · AI Agents
 
-[Explore AI assistant repository](https://github.com/Varshith0105/your-personal-ai-chat)
+[Browse repositories — dedicated VORTEX repo not public yet](https://github.com/Varshith0105?tab=repositories)
 
 </td>
 </tr>

@@ -124,11 +124,9 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 - **Cloud Architecting** — AWS Academy
 - **Fundamentals of Deep Learning** — NVIDIA
 - **MATLAB Onramp** — MathWorks
-
-### Job Simulations & Virtual Experience
-
 - **Software Engineering Job Simulation** — JPMorgan Chase & Co. (Forage)
 - **GenAI-Powered Data Analytics Job Simulation** — Tata Consultancy Services (Forage)
+
 
 
 ## 🤝 Connect With Me

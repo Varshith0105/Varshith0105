@@ -81,53 +81,21 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 ---
 
-## 📊 GitHub Stats
-
-<table width="100%" cellspacing="0" cellpadding="10">
-<tr>
-<td width="50%" valign="middle" align="center">
-
-### GitHub Stats
-
-<a href="https://github.com/Varshith0105"><img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=github&theme=radical&bg_color=190D20&title_color=F472B6&text_color=FFFFFF&icon_color=FBBF24" width="100%" alt="Varshith's GitHub statistics"/></a>
-
-</td>
-<td width="50%" valign="middle" align="center">
-
-### Streak Stats
-
-<a href="https://github.com/Varshith0105"><img src="https://streak-stats.demolab.com?user=Varshith0105&hide_border=true&background=190D20&ring=F472B6&fire=FBBF24&currStreakLabel=F472B6&sideLabels=FFFFFF&dates=D1D5DB&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" alt="Varshith's GitHub contribution streak"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
-### Latest Project
-
-<a href="https://github.com/Varshith0105/KshetraIQ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Varshith0105&repo=KshetraIQ&hide_border=true&theme=radical&bg_color=190D20&title_color=F472B6&text_color=FFFFFF&icon_color=FBBF24" width="100%" alt="KshetraIQ repository card"/></a>
-
-AI-powered agricultural intelligence platform for crop recommendations, soil and weather insights, and farmer-friendly reports.
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### Top Contributions
-
-<a href="https://github.com/Varshith0105/Drug_Discovery_AI_CNN-Based"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Varshith0105&repo=Drug_Discovery_AI_CNN-Based&hide_border=true&theme=radical&bg_color=190D20&title_color=F472B6&text_color=FFFFFF&icon_color=FBBF24" width="100%" alt="Drug Discovery AI repository card"/></a>
-
-<a href="https://github.com/Varshith0105/your-personal-ai-chat"><img src="https://img.shields.io/badge/Personal_AI_Assistant-View_Repository-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="Personal AI assistant repository"/></a>
-
-<a href="https://github.com/Varshith0105/EDUSPHERE-LMS"><img src="https://img.shields.io/badge/EduSphere_LMS-View_Repository-DB2777?style=for-the-badge&logo=github&logoColor=white" alt="EduSphere LMS repository"/></a>
-
-</td>
-</tr>
-</table>
+## 📊 GitHub Activity Dashboard
 
 <p align="center">
-<a href="https://github.com/Varshith0105?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/></a>
-<a href="https://github.com/Varshith0105?tab=overview"><img src="https://img.shields.io/badge/Contribution_Overview-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="View contribution overview"/></a>
+  <a href="https://github.com/Varshith0105?tab=overview">
+    <img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/assets/github-activity-dashboard.svg" width="100%" alt="Automatically updated GitHub activity dashboard with repository metrics and activity charts"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Varshith0105?tab=repositories">Explore repositories</a> ·
+  <a href="https://github.com/Varshith0105?tab=overview">View GitHub activity</a> ·
+  <a href="https://github.com/Varshith0105/actions/workflows/github-dashboard.yml">Dashboard refresh workflow</a>
+</p>
+
+> Dashboard metrics refresh automatically every 12 hours using GitHub Actions. The activity chart is based on recent **public** GitHub events; private activity is not included.
 
 ## 🐍 Contribution Snake
 

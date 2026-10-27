@@ -18,13 +18,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate neon cyan and violet contribution snake
+      - name: Generate premium violet, magenta, and pink contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=%2322d3ee&color_empty=%230b1020&color_dots=%23312e81,%236d28d9,%23a855f7,%2322d3ee
-            dist/github-snake-dark.svg?color_snake=%2322d3ee&color_empty=%23060812&color_dots=%23312e81,%236d28d9,%23a855f7,%2322d3ee
+            dist/github-snake.svg?color_snake=%23f0abfc&color_empty=%230b1020&color_dots=%231e1b4b,%234c1d95,%237e22ce,%23c026d3
+            dist/github-snake-dark.svg?color_snake=%23f0abfc&color_empty=%23060812&color_dots=%231e1b4b,%234c1d95,%237e22ce,%23c026d3
 
       - name: Publish snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4

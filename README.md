@@ -32,6 +32,10 @@ I’m a CSE student specializing in AI and Machine Learning who enjoys building 
 <p align="center"><img src="https://streak-stats.demolab.com?user=Varshith0105&hide_border=true&background=0B1020&ring=60A5FA&fire=22D3EE&currStreakLabel=93C5FD&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" width="80%" alt="GitHub contribution streak"></p>
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake.svg"><img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake animation for Varshith0105"></picture></p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub profile trophies for Varshith0105">
+</p>
+
 <img src="assets/title-certifications.svg" width="100%" alt="06 Certifications — Learning and foundations.">
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle-Gen--AI_Foundation_%26_Professional-2563EB?style=for-the-badge&labelColor=0B1020" alt="Oracle GenAI certifications">

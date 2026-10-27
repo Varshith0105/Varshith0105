@@ -131,7 +131,7 @@ Compares resume skills and experience with job descriptions to support candidate
 
 **Stack:** Java · Spring Boot · React · Generative AI
 
-[Repository](https://github.com/Varshith0105/AI-RESUME-SCREENER)
+[GitHub](https://github.com/Varshith0105/AI-RESUME-SCREENER)
 
 </td>
 </tr>
@@ -165,7 +165,7 @@ A full-stack learning management system concept for courses, assessments, studen
 
 **Stack:** React · TypeScript · Java 21 · Spring Boot · SQL
 
-[Repository](https://github.com/Varshith0105/EDUSPHERE-LMS)
+[GitHub](https://github.com/Varshith0105/EDUSPHERE-LMS)
 
 </td>
 </tr>
@@ -182,7 +182,7 @@ A deep-learning image classification project for skin-condition screening, with 
 
 **Stack:** Python · TensorFlow · Keras · Flask · Firebase
 
-[Repository](https://github.com/Varshith0105/Skin-disease-Prediction) · [Live Demo](https://07saroj.github.io/SmartSkinAI/)
+[GitHub](https://github.com/Varshith0105/Skin-disease-Prediction) · [Live Demo](https://07saroj.github.io/SmartSkinAI/)
 
 </td>
 </tr>
@@ -197,7 +197,7 @@ A deep-learning image classification project for skin-condition screening, with 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" width="100%" height="220" alt="GitHub profile trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Varshith0105&theme=dracula&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" width="100%" alt="GitHub profile trophies"/>
 </div>
 
 ## 📊 GitHub Statistics

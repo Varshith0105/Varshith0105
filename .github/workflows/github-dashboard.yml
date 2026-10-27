@@ -1,0 +1,39 @@
+name: Update GitHub Activity Dashboard
+
+on:
+  schedule:
+    - cron: "17 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/generate_dashboard.py"
+      - ".github/workflows/github-dashboard.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build-dashboard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate dashboard SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python .github/scripts/generate_dashboard.py
+
+      - name: Commit updated dashboard
+        run: |
+          if git diff --quiet -- assets/github-activity-dashboard.svg; then
+            echo "Dashboard unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-activity-dashboard.svg
+          git commit -m "Update GitHub activity dashboard"
+          git push

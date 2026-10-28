@@ -21,10 +21,11 @@
 
 ## 😎 I'M VARSHITH!
 
+<p><em>Digital Craftsman (AI/ML Developer / Programmer)</em></p>
+
 <table>
   <tr>
-    <td width="68%" valign="top">
-      <p><em>Digital Craftsman (AI/ML Developer / Programmer)</em></p>
+    <td width="66%" valign="middle">
       <p>I'm <strong>Varshith Julakanti</strong>, a CSE student specializing in <strong>AI &amp; Machine Learning at VIT-AP</strong>. I build practical AI/ML solutions and full-stack applications, and I'm exploring <strong>Generative AI, LLMs, RAG, and AI agents</strong>.</p>
       <ul>
         <li>✨ Always learning, experimenting, and building.</li>
@@ -34,8 +35,10 @@
         <li>💻 <a href="https://varshith-portfolio-omega.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/varshith-j/">LinkedIn</a> · <a href="mailto:varshithjulakanti@gmail.com">Email</a></li>
       </ul>
     </td>
-    <td width="32%" valign="top" align="center">
-      <img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" width="240" alt="Celebrating owl with confetti"/>
+    <td width="34%" valign="middle" align="center">
+      <p>✨　🎉　·　✦　🎊</p>
+      <img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" width="290" alt="Cheerful owl popping colorful confetti"/>
+      <p>✦　·　🎉　✨</p>
     </td>
   </tr>
 </table>

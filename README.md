@@ -36,6 +36,8 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 
 
+<br clear="right" />
+
 ## ⚡ What I'm Building & Learning
 
 | Focus | What it means |

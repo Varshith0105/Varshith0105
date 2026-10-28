@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10051d,45:3b0764,100:9333ea&height=220&section=header&text=Varshith%20Julakanti&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20GENERATIVE%20AI%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descAlignY=60&descSize=16" alt="Varshith Julakanti profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10051d,45:3b0764,100:9333ea&height=155&section=header&text=Varshith%20Julakanti&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20GENERATIVE%20AI%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descAlignY=63&descSize=13" alt="Varshith Julakanti profile banner"/>
 
 <a href="https://varshith-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/varshith-j/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>

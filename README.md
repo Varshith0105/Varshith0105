@@ -159,5 +159,5 @@ Click the terminal preview above to open the interactive contact form, then ente
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/assets/readme-footer-banner.svg" width="100%" alt="Varshith Julakanti — AI/ML, Generative AI and Full-Stack Developer"/>
+  <img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/assets/readme-footer-banner-animated.svg" width="100%" alt="Varshith Julakanti — AI/ML, Generative AI and Full-Stack Developer"/>
 </p>

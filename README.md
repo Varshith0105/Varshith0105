@@ -35,13 +35,9 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 
 I enjoy turning ideas into useful products—from experimenting with models to building the APIs and interfaces that make them practical. I value **curiosity, clean engineering, and learning by shipping**.
 
-🎯 **Current focus:** building reliable AI-powered applications, exploring agentic workflows, and contributing to open-source projects.
 
 
-
-
-<br clear="right" />
-
+---
 ## ⚡ What I'm Building & Learning
 
 | Focus | What it means |

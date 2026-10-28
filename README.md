@@ -33,6 +33,10 @@ I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learnin
 - 💜 Open to AI/ML, GenAI, and open-source collaboration.
 - 💻 [Portfolio](https://varshith-portfolio-omega.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/varshith-j/) · [Email](mailto:varshithjulakanti@gmail.com)
 
+I enjoy turning ideas into useful products—from experimenting with models to building the APIs and interfaces that make them practical. I value **curiosity, clean engineering, and learning by shipping**.
+
+🎯 **Current focus:** building reliable AI-powered applications, exploring agentic workflows, and contributing to open-source projects.
+
 
 
 

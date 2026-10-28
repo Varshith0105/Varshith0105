@@ -21,27 +21,20 @@
 
 ## 😎 I'M VARSHITH!
 
-<p><em>Digital Craftsman (AI/ML Developer / Programmer)</em></p>
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Celebrating owl with confetti"/>
 
-<table>
-  <tr>
-    <td width="66%" valign="middle">
-      <p>I'm <strong>Varshith Julakanti</strong>, a CSE student specializing in <strong>AI &amp; Machine Learning at VIT-AP</strong>. I build practical AI/ML solutions and full-stack applications, and I'm exploring <strong>Generative AI, LLMs, RAG, and AI agents</strong>.</p>
-      <ul>
-        <li>✨ Always learning, experimenting, and building.</li>
-        <li>🧠 AI projects in agriculture, drug discovery, and productivity.</li>
-        <li>🛠️ <strong>Tech:</strong> Python, Java, React, Next.js, FastAPI, Spring Boot.</li>
-        <li>💜 Open to AI/ML, GenAI, and open-source collaboration.</li>
-        <li>💻 <a href="https://varshith-portfolio-omega.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/varshith-j/">LinkedIn</a> · <a href="mailto:varshithjulakanti@gmail.com">Email</a></li>
-      </ul>
-    </td>
-    <td width="34%" valign="middle" align="center">
-      <p>✨　🎉　·　✦　🎊</p>
-      <img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" width="290" alt="Cheerful owl popping colorful confetti"/>
-      <p>✦　·　🎉　✨</p>
-    </td>
-  </tr>
-</table>
+*Digital Craftsman (AI/ML Developer / Programmer)*
+
+I'm **Varshith Julakanti**, a CSE student specializing in **AI & Machine Learning at VIT-AP**. I build practical AI/ML solutions and full-stack applications, and I'm exploring **Generative AI, LLMs, RAG, and AI agents**.
+
+- ✨ Always learning, experimenting, and building.
+- 🧠 AI projects in agriculture, drug discovery, and productivity.
+- 🛠️ **Tech:** Python, Java, React, Next.js, FastAPI, Spring Boot.
+- 💜 Open to AI/ML, GenAI, and open-source collaboration.
+- 💻 [Portfolio](https://varshith-portfolio-omega.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/varshith-j/) · [Email](mailto:varshithjulakanti@gmail.com)
+
+
+
 
 ## ⚡ What I'm Building & Learning
 

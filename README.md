@@ -134,7 +134,7 @@ I enjoy turning ideas into useful products—from experimenting with models to b
 ## 💻 `./whoami --hacker-mode`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/assets/hacker-profile-terminal.svg?v=7e0ae1b" alt="Animated green-on-black hacker terminal with programming jokes, chess, nature, solo bike rides, and coffee debugging humor" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Varshith0105/Varshith0105/main/assets/hacker-profile-terminal.svg?v=compact-typewriter-1" alt="Compact animated green-on-black terminal typing developer jokes, chess, nature, solo rides, and coffee debugging humor" width="90%"/>
 </p>
 
 > Terminal updated: programming jokes, chess, nature breaks, solo bike rides, and coffee-powered debugging — typed out in neon green on black.

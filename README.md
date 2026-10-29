@@ -95,7 +95,7 @@ I enjoy turning ideas into useful products—from experimenting with models to b
 
 ### GitHub Statistics
 
-<a href="https://github.com/Varshith0105"><img src="https://github-readme-stats.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=00000000&title_color=C084FC&text_color=E2E8F0&icon_color=C084FC&custom_title=Varshith%20Julakanti%27s%20GitHub%20Stats" width="100%" alt="GitHub statistics"/></a>
+<a href="https://github.com/Varshith0105"><img src="https://github-stats-extended.vercel.app/api?username=Varshith0105&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=00000000&title_color=C084FC&text_color=E2E8F0&icon_color=C084FC&custom_title=Varshith%20Julakanti%27s%20GitHub%20Stats" width="100%" alt="GitHub statistics"/></a>
 
 </td>
 <td width="50%" align="center" valign="top">
